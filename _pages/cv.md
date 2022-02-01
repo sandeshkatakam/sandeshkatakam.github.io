@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<a href='https://www.dropbox.com/s/1tl55n9vcxv2t12/SANDESHCV%20%283%29.pdf?dl=0'>Download PDF here</a>
 Education
 ======
 * B.S.-M.S. Physics and Mathematics , 2025(expected)
