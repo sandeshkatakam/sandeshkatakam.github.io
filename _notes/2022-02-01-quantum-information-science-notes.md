@@ -8,8 +8,6 @@ venue: ''
 
 ---
 
-<a href='https://drive.google.com/file/d/1n7MZ-HO6LPXt9ZUNlmZASukhgfsayE2R/view?usp=sharing'>Download PDF here</a>
-
 <a href='https://www.dropbox.com/s/v73a5pxr52kb65j/Quantum_Information_Science_Notes%20%281%29.pdf?dl=0'>Download PDF here</a>
 
 
