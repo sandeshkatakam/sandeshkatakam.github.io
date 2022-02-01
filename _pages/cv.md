@@ -1,92 +1,81 @@
 ---
 layout: archive
-title: Isaac Newtons's CV
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+{% include base_path %}<br />
+<a href='https://www.dropbox.com/s/1tl55n9vcxv2t12/SANDESHCV%20%283%29.pdf?dl=0'>Download PDF here</a><br />
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Education
+======
+* B.S.-M.S. Physics and Mathematics , 2025(expected)
 
 
 
-## Awards
+Work experience
+======
+* Undergraduate Student Researcher
+  * IISER Berhampur
+  * Dec 2020 - Present
+  * Supervisor: 
 
-`2012`
-President, *Royal Society*, London, UK
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Machine Learning and Deep learning
+* Progamming languages:
+  * C++
+  * Python
+  * Julia
+  * MATLAB
+* Version Control:
+  * Git
+  * GitHub
+* LaTeX
+* Machine Learning Libraries:
+  * Pandas, Numpy, Matplotlib and Seaborn
+  * Scikit-Learn, Keras, Tensorflow, Fastai, PyTorch
+* Quantum Computing:
+  * Qiskit library
+  * Cirq
+* Devops tools:
+  * Continous Integration(CI)
+  * Continouse deployment(CD) on cloud.
 
-Associate, *French Academy of Science*, Paris, France
+ Service and leadership  
+ 
+ ======
+ * Julia Slack team member
+ * Qiskit Slack team member
+  
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
-
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
