@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive
 title: Isaac Newtons's CV
 ---
 # Isaac Newton
