@@ -19,7 +19,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://sandeshkatakam.github.io/markdown-cv/"
     
   - title: "Guide"
     url: /markdown/
