@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.-M.S. Physics and Mathematics , 2025(expected)
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Student Researcher
+  * IISER Berhampur
+  * Dec 2020 - Present
+  * Supervisor: 
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +29,31 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning and Deep learning
+* Progamming languages:
+  * C++
+  * Python
+  * Julia
+  * MATLAB
+* Version Control:
+  * Git
+  * GitHub
+* LaTeX
+* Machine Learning Libraries:
+  * Pandas, Numpy, Matplotlib and Seaborn
+  * Scikit-Learn, Keras, Tensorflow, Fastai, PyTorch
+* Quantum Computing:
+  * Qiskit library
+  * Cirq
+* Devops tools:
+  * Continous Integration(CI)
+  * Continouse deployment(CD) on cloud.
+
+ Service and leadership
+ ======
+ * Julia Slack team member
+ * Qiskit Slack team member
+  
 
 Publications
 ======
