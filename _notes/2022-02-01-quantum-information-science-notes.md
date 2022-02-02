@@ -1,10 +1,12 @@
 ---
 title: "Quantum Information Science Notes"
 category: articles
+collection: notes
 permalink: /_notes/2022-02-01-quantum-information-science-notes// 
 excerpt: 'My Notes on Quantum Information science based on course at MIT Open learning Library'
 date: 2022-02-01
 venue: ''
+paperurl : /files/pdf/Quantum_Information_Science_Notes (1).pdf
 
 ---
 
