@@ -8,5 +8,10 @@ The project is based on the dataset I obtained from kaggle. The Analysis I am pe
 
 The Entire Jupyter Notebook of the project is hosted on my blog: [Axis Bank Stock Data Analysis Project Blog Post](https://sandeshkatakam.github.io/My-Machine_learning-Blog/jupyter/2021/12/22/data-analysis-course-project.html)  
 
+<style type="text/css">
+  .gist {width:580px !important;}
+  .gist-file
+  .gist-data {max-height: 320px; max-width: 580px;}
+</style>  
 <script src="https://gist.github.com/sandeshkatakam/e544ac92eee279311ace3d1a3c891532.js"></script>
 
