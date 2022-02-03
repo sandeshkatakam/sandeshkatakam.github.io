@@ -13,14 +13,14 @@ The Entire Jupyter Notebook of the project is hosted on my blog: [Axis Bank Stoc
 .gist {
   margin-left: auto;
   margin-right: auto;
-  width: 600px !important;
+  width: 750px !important;
 }
 
 /* Limit height and width of script box, and enable scrollbars */
 .gist-data {
-    height:250px;
+    height:400px;
     overflow-y: visible;
-    width: 600px;
+    width: 750px;
     overflow-x: visible;
 }
 </style>  
