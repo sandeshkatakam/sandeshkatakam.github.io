@@ -9,7 +9,7 @@ venue: 'Online'
 paperurl : /files/pdf/QISKIT_Global_Summer_School_2020_Notes.pdf
 
 ---
-
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)  
 <a href='https://www.dropbox.com/s/gy29lqqvqmngk2b/QISKIT_Global_Summer_School_2020_Notes.pdf?dl=0'>Download PDF here</a>
 
 
