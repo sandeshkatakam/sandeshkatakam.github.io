@@ -1,6 +1,6 @@
 ---
 title: "Axis Bank Stock Data Analysis"
-excerpt: "Deatailed Data analysis of Axis bank stock quotes obtained from kaggle datasets. The project is a part of Jovian Data Analysis Course<br/><img src='/images/stockdataimage.png' width="300" height="200" />"
+excerpt: "Deatailed Data analysis of Axis bank stock quotes obtained from kaggle datasets. The project is a part of Jovian Data Analysis Course<br/><img src='/images/stockdataimage.png'>"
 collection: portfolio
 ---
 
