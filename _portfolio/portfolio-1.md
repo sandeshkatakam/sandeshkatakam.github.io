@@ -26,3 +26,10 @@ The Entire Jupyter Notebook of the project is hosted on my blog: [Axis Bank Stoc
 </style>  
 <script src="https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b.js"></script>
 
+<style type="text/css">
+  .gist {width:750px !important;}
+  .gist-file
+  .gist-data {max-height: 475px; max-width: 580px;}
+</style>
+<script src="https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b.js"></script>
+
