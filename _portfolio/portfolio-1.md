@@ -18,7 +18,7 @@ The Entire Jupyter Notebook of the project is hosted on my blog: [Axis Bank Stoc
 
 /* Limit height and width of script box, and enable scrollbars */
 .gist-data {
-    height:400px;
+    height:500px;
     overflow-y: visible;
     width: 750px;
     overflow-x: visible;
