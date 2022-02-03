@@ -24,5 +24,5 @@ The Entire Jupyter Notebook of the project is hosted on my blog: [Axis Bank Stoc
     overflow-x: visible;
 }
 </style>  
-<script src="https://gist.github.com/sandeshkatakam/e544ac92eee279311ace3d1a3c891532.js"></script>
+<script src="https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b.js"></script>
 
