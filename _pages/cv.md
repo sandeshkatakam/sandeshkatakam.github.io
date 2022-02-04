@@ -25,7 +25,7 @@ Education
 ---------
 
 2020-2025 (expected)
-:   ** MS, Physics 
+:   **MS, Physics**
 
     *Thesis title: Yet to be declared*
 
