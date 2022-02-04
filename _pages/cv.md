@@ -19,16 +19,17 @@ Sandesh Katakam
 >  then find a bigger mountain.
 
 ----
+
 Education
 ---------
 
 2020-2025 (expected)
 :   **Master of Science (MS) Physics**
-    *Thesis title: Yet to be declared*
+      * *Thesis title: Yet to be declared*
 
 2020-2025(expected)
 :   **Bachelor of Science (BS) Physics**
-      *Minor: Mathematics*
+      * *Minor: Mathematics*
 
 Experience
 ----------
@@ -45,14 +46,16 @@ Data Analysis in Python Project:
 :   GitHub Gist of the project: [Axis Bank Stock Data Analysis Project](https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b)  
 
 
+
 Open Source:
 :   I am currently working on developing SciML package in Julia. The sample repo is hosted on GitHub: [MyPackage1](https://github.com/sandeshkatakam/MyPackage1)  
 
+
 Programming Languages: 
-:   **Python:** 
+:   **Python:**
     * Data Analysis Libraries: Numpy, Pandas, Matplotlib, Seaborn etc.
-    *Machine learning Libraries: Tensorflow, Pytorch, Fastai, Keras, Scikit-learn.
-    *
+    * Machine learning Libraries: Tensorflow, Pytorch, Fastai, Keras, Scikit-learn.
+    * Quantum Computing Libraries: QISKIT.
 
 :   **MATLAB:** I have used Matlab for Machine learning course. I have done all the assignments in MATLAB. As a part of the stanford ML course, I have done a project: 
     [Hand-Written Digit classifier using Neural Netowrks on MNIST data set](https://github.com/sandeshkatakam/coursera-Machine-Learning-Assignments/tree/main/ex4-Handwritten_digit_classifier)
@@ -82,9 +85,7 @@ Conferences, Talks and Summer Schools(Attendee):
 * International Congress on Mathematical Physics:
   * [Certificate](https://drive.google.com/file/d/1bEbMV4FJnXpocoT2GSPFEhWP8e5emywi/view?usp=sharing)  
 
-* SLAC Summer Institute 2021:
->The HIGGS State Fair
-
+* SLAC Summer Institute 2021
 
 MOOCS:
 ----------
