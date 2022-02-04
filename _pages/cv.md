@@ -16,98 +16,98 @@ Sandesh Katakam
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  If you think you have reached the peak of a mountain, 
+>  then find a bigger mountain.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2020-2025 (expected)
+:   ** MS, Physics 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Yet to be declared*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2020-2025(expected)
+:   **BS, Physics Major **; 
 
-    *Minor: Awesomeology*
+    *Minor: Mathematics*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Undergraduate Student Researcher**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+I have done multiple self assigned reading project on various topics. 
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Data Analysis in Python Project:
+:   GitHub Gist of the project: [Axis Bank Stock Data Analysis Project](https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Open Source:
+:   I am currently working on developing SciML package in Julia. The sample repo is hosted on GitHub: [MyPackage1](https://github.com/sandeshkatakam/MyPackage1)
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Programming Languages: 
+:   **Python:** 
+    *Data Analysis Libraries: Numpy, Pandas, Matplotlib, Seaborn etc.
+    *Machine learning Libraries: Tensorflow, Pytorch, Fastai, Keras, Scikit-learn.
+    *
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **MATLAB:** 
+    I have used Matlab for Machine learning course. I have done all the assignments in MATLAB. As a part of the stanford ML course, I have done a project: 
+    [Hand-Written Digit classifier using Neural Netowrks on MNIST data set](https://github.com/sandeshkatakam/coursera-Machine-Learning-Assignments/tree/main/ex4-Handwritten_digit_classifier)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Julia** I am currently working with Julia and trying to contribute to the package ecosystem of Julia. I am using Julia to work on Scientific Machine Learning and Physics-Informed Neural Networks. I feel Julia is the best in Scientifc Computing.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **C++:** I am comfortable with programming in C++. I learned Data Structres and Algorithms in C++. I used C++ for Competitive Programming.
+
+Software Utilities and Other tools:
+:   **Version Control:** I am well versed with using git for version control operations. I have used git in all my projects to work back and forth with repos in local machine and Remote repos.
+
+:   **DevOps Tools:** I used CI/CD tools while developing my Julia Package for automating the testing using GitHub actions and continously deploying after proper testing.
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Achievements:
 ----------------------------------------
 
-* Human Languages:
+* National graduate Physics Examintaion 2021:  
+  * [Center Topper Certificate](https://drive.google.com/file/d/1T1zBHhxItLTdXpi7-AffbiSNcM0oltBV/view?usp=sharing)  
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* Qualified in JEE Advanced 2020:  
 
-* Random tidbit
+Conferences, Talks and Summer Schools(Attendee):
+----------------------------------------
 
-* Other sort of impressive-sounding thing you did
+* International Congress on Mathematical Physics:
+  * [Certificate](https://drive.google.com/file/d/1bEbMV4FJnXpocoT2GSPFEhWP8e5emywi/view?usp=sharing)  
+
+* SLAC Summer Institute 2021:
+>The HIGGS State Fair
+
+
+MOOCS:
+----------
+* Data Analysis with Python: Zero to Pandas.
+> Coursera offered by Jovian.ai
+* Machine learning 
+> Coursera offered by Stanford
+* Deep learning Specialization
+> Coursera offered by Deeplearning.ai
+* Mathematics for Machine Learning
+> Coursera offered by Imperial College London
+* Algorithms Specialization
+> Coursera offered by Stanford University
+* Introduction to Git and GitHub
+> Coursera offered by Google
+
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <sandeshkatakam@gmail.com> • +00 (0)00 000 0000 • 19 years old\
+> address - Hyderabad, INDIA.
