@@ -24,7 +24,7 @@ Sandesh Katakam
 
 * __M.S.__ in Physics, IISER Berhampur, 2025(expected)
   * Thesis: Yet to be declared.
-* __B.S.__ in Physics, Indian Institute of Science Education and Research(IISER) Berhampur, 2025(expected)
+* __B.S.__ in Physics, Indian Institute of Science Education and Research(IISER) Berhampur
   * Minor : Mathematics
 
 ## Research Experience
@@ -37,11 +37,14 @@ I have done multiple self assigned reading project on various topics.
 
 * [Hand-Written Digit classifier using Neural Netowrks on MNIST data set](https://github.com/sandeshkatakam/coursera-Machine-Learning-Assignments/tree/main/ex4-Handwritten_digit_classifier)  
 
-* Data Analysis in Python Project:
-  * GitHub Gist of the project: [Axis Bank Stock Data Analysis Project](https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b)  
+* Data Analysis in Python Projects:
+  * [Axis Bank Stock Data Analysis Project](https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b) 
+  *  [Housing Prices Prediction Project](https://gist.github.com/sandeshkatakam/059f27e766bfac09691f261c73a44f73)
 
 * Open Source:
-  :   I am currently working on developing SciML package in Julia. The sample repo is hosted on GitHub: [MyPackage1](https://github.com/sandeshkatakam/MyPackage1)  
+  
+
+* [Machine Learning Journal](https://sandeshkatakam.github.io/My-Machine_learning-Blog/)
 
 ## Skills
 
