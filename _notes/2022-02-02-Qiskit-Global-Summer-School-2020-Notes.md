@@ -13,6 +13,9 @@ paperurl : /files/pdf/QISKIT_Global_Summer_School_2020_Notes.pdf
 <a href='https://www.dropbox.com/s/gy29lqqvqmngk2b/QISKIT_Global_Summer_School_2020_Notes.pdf?dl=0'>Download PDF here</a>
 
 
-Abstract: Lecture Notes of Qiskit Global Summer School on "Introduction to Quantum Computing and Quantum Hardware"
+Abstract: Lecture Notes of Qiskit Global Summer School on "Introduction to Quantum Computing and Quantum Hardware"  
+
+<embed src="https://sandeshkatakam.github.io/files/pdf/QISKIT_Global_Summer_School_2020_Notes.pdf" type="application/pdf" width="100%" />  
+
 
  Recommended citation: [Qiskit Global Summer School 2020](https://qiskit.org/learn/intro-qc-qh/)
