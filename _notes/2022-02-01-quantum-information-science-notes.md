@@ -14,6 +14,7 @@ paperurl : /files/pdf/Quantum_Information_Science_Notes.pdf
 
 Abstract: Detailed Lecture notes on Quantum Information Science. The Notes are based on the course taught by Peter Shor and Issac chuang at MIT.  
 
-<embed src="https://sandeshkatakam.github.io/files/pdf/Quantum_Information_Science_Notes.pdf" type="application/pdf" width="100%" />
+<embed src="https://sandeshkatakam.github.io/files/pdf/Quantum_Information_Science_Notes.pdf" type="application/pdf" width="100%" />  
+
 
  Recommended citation: Quantum Information science part I MIT Open learning Library.
