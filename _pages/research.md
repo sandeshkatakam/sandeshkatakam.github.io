@@ -8,26 +8,9 @@ redirect_from:
   - "/nmp.html"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna justo, venenatis ac ligula eget, lobortis ultricies eros. Aenean a condimentum sem, nec eleifend elit. Sed vel fermentum ipsum. Mauris non sem purus. Nam commodo lorem vitae ipsum suscipit vulputate. Pellentesque ac convallis quam. Donec finibus consectetur lacus id faucibus. Suspendisse faucibus magna euismod egestas consequat. Integer dolor ligula, varius sed nisl in, lacinia blandit sem. Ut ut est mattis quam congue ullamcorper. Fusce condimentum odio eget commodo consequat. Nullam fermentum, neque sit amet tempor tempus, ante arcu ullamcorper dui, vel tempus lorem ligula eu arcu. Mauris ornare, erat eu mollis elementum, arcu risus consectetur mauris, et fermentum turpis elit a risus. Cras blandit odio sit amet venenatis sodales.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Cras ut dui id dui pulvinar ultrices. Donec eu scelerisque ligula. Ut justo enim, condimentum in ante ac, semper hendrerit ligula. Suspendisse ultricies sagittis fermentum. Phasellus sapien lectus, facilisis nec est eu, consectetur vehicula mauris. Donec feugiat est eget nulla volutpat varius. In eget facilisis lectus. In a lectus ac neque vulputate dignissim eu at massa. Nullam quis turpis eget tortor egestas placerat. Donec feugiat urna ut lectus venenatis tempus. Nulla scelerisque lobortis faucibus.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
-
+Sed ut sem ipsum. Donec ornare vitae lorem eu mollis. Pellentesque vehicula metus eget quam congue euismod ut aliquam massa. Sed sollicitudin mi vitae consectetur lacinia. Cras suscipit imperdiet vestibulum. Vestibulum ullamcorper, ipsum vitae ultricies elementum, magna odio pellentesque sapien, vel eleifend ipsum ex sit amet nibh. Suspendisse feugiat sem id eros interdum scelerisque. Maecenas at nunc eu purus malesuada ultrices a dictum dolor. Sed eget imperdiet nisl, non elementum enim. Nunc et facilisis metus. Morbi viverra nec justo eget bibendum.
 
