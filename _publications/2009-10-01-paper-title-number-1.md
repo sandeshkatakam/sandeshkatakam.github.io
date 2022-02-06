@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2001-10-01
 venue: 'Journal 1'
 paperurl: '/files/pdf/Quantum_Information_Science_Notes.pdf'
-link: 'https://doi.org/10.1017/S1049096521001153'
+link: ''
 citation: 'sample citation for testing the new layout'
 ---
 
