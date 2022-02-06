@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /research/
 title: "Research"
 excerpt: "Page contains updates about my recent research"
