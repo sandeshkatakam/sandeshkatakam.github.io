@@ -12,7 +12,7 @@ tags:
   - Data Science
 ---
 
-Numpy is a python library used to create, modify and interact with Arrays. It is a very vast and powerful library which is very essential for data analysis tasks. The Numpy library basic routines are very simple and easy to learn. Numpy is also known for scientific computation since it can handle large amount of data in the form of arrays. Numpy is mostly written in C which makes it run time fast and execute operations faster. It is very useful for Mathematics since it offers a vast collection of mathematical functions and random number generators. In this notebook, I try to demonstrate some standard numpy operations essential for operating on matrices. Below are the five operations that I am going to demonstrate:
+Numpy is a python library used to create, modify and interact with Arrays. It is a very vast and powerful library which is very essential for data analysis tasks. The Numpy library basic routines are very simple and easy to learn. Numpy is also known for scientific computation since it can handle large amount of data in the form of arrays.<!--more--> Numpy is mostly written in C which makes it run time fast and execute operations faster. It is very useful for Mathematics since it offers a vast collection of mathematical functions and random number generators. In this notebook, I try to demonstrate some standard numpy operations essential for operating on matrices. Below are the five operations that I am going to demonstrate:
 
 - np.matmul
 - np.linalg.solve
