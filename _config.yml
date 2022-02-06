@@ -111,7 +111,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-3229-259X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "http://stackoverflow.com/users/18009563/sandesh-katakam"# http://stackoverflow.com/users/123456/username
+  stackoverflow    : "/users/18009563/sandesh-katakam"# http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "sandeshkatakam"
