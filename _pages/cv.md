@@ -97,5 +97,5 @@ I have done multiple self assigned reading project on various topics.
 
 ----
 
-> <sandeshkatakam@gmail.com> • +00 (0)00 000 0000 • 19 years old\
-> address - Hyderabad, INDIA.
+> <sandeshkatakam@gmail.com>
+> Hyderabad, INDIA.
