@@ -2,8 +2,8 @@
 title: 'Guide to Numpy Operations'
 date: 2021-10-03
 toc: true
-excerpt: Numpy is a python library used to create, modify and interact with Arrays. It is a very vast and powerful library which is very essential for data analysis tasks. 
 permalink: /posts/guide_to_numpy_operations/
+excerpt_separator: <!--more-->
 tags:
   - cool posts
   - Numpy
