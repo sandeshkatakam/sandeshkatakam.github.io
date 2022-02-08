@@ -8,7 +8,7 @@ date: 2022-02-01
 venue: ''
 paperurl : /files/pdf/Quantum_Information_Science_Notes.pdf 
 ---
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)  
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.overleaf.com/read/fqzrcgbswbvy)  
 <a href='https://www.dropbox.com/s/v73a5pxr52kb65j/Quantum_Information_Science_Notes%20%281%29.pdf?dl=0'>Download PDF here</a>
 
 
