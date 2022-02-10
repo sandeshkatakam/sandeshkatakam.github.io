@@ -19,7 +19,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /blogposts/
+    url: /posts/
     
   - title: "CV"
     url: /cv/
