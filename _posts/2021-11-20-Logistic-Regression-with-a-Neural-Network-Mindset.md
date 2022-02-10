@@ -11,7 +11,6 @@ tags:
   - Deep Learning
 ---
 
-
 # Logistic Regression with a Neural Network mindset
 
 This notebook demonstrates, how to  build a logistic regression classifier to recognize  cats. This notebook will step you through how to do this with a Neural Network mindset, and will also hone your intuitions about deep learning. This notebook is a modified version of the assignment I had done for the course: [Neural Netoworks and Deep learning](https://www.coursera.org/learn/neural-networks-deep-learning?)
@@ -206,7 +205,6 @@ train_set_x = train_set_x_flatten / 255.
 test_set_x = test_set_x_flatten / 255.
 ```
 
-<font color='blue'>
     
     
 **What you need to remember:**
@@ -216,7 +214,6 @@ Common steps for pre-processing a new dataset are:
 - Reshape the datasets such that each example is now a vector of size (num_px \* num_px \* 3, 1)
 - "Standardize" the data
 
-<a name='3'></a>
 ## 3 - General Architecture of the learning algorithm ##
 
 It's time to design a simple algorithm to distinguish cat images from non-cat images.
@@ -590,7 +587,6 @@ print ("predictions = " + str(predict(w, b, X)))
 predict_test(predict)
 ```
 
-<font color='blue'>
     
 **What to remember:**
     
@@ -774,7 +770,6 @@ my_predicted_image = predict(logistic_regression_model["w"], logistic_regression
 print("y = " + str(np.squeeze(my_predicted_image)) + ", your algorithm predicts a \"" + classes[int(np.squeeze(my_predicted_image)),].decode("utf-8") +  "\" picture.")
 ```
 
-<font color='blue'>
     
 **What to remember :**
 1. Preprocessing the dataset is important.
@@ -784,6 +779,8 @@ print("y = " + str(np.squeeze(my_predicted_image)) + ", your algorithm predicts 
 Bibliography:
 - http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 - https://stats.stackexchange.com/questions/211436/why-do-we-normalize-images-by-subtracting-the-datasets-image-mean-and-not-the-c
+
+
 - [Coursera Deep Learning Specialization - Neural Networks and Deep Learning course](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-IN&utm_content=B2C&campaignid=6495527979&adgroupid=119719595459&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=507236116448&hide_mobile_promo&gclid=CjwKCAiA6Y2QBhAtEiwAGHybPYGMIUHqt7v9vo1e4cHnk1T7E3QNAB_FKbNKOJbrDHrV0krF0iat-BoCjkgQAvD_BwE)
 
 
