@@ -2,7 +2,7 @@
 title: 'Logistic Regression with a Neural Network Mindset'
 date: 2021-11-20
 toc: true
-excerpt: This notebook demonstrates, how to  build a logistic regression classifier to recognize  cats. This notebook will step you through how to do this with a Neural Network mindset, and will also hone your intuitions about deep learning. This notebook is a modified version of the assignment I had done for the course: [Neural Networks and Deep learning](https://www.coursera.org/learn/neural-networks-deep-learning?).
+excerpt: This notebook demonstrates, how to  build a logistic regression classifier to recognize  cats. This notebook will step you through how to do this with a Neural Network mindset, and will also hone your intuitions about deep learning.
 permalink: /posts/2021/11/logistic_regression_with_neural_network/
 tags:
   - cool posts
