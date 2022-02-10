@@ -1,3 +1,20 @@
+---
+title: 'TensorFlow Fundamentals'
+date: 2022-02-09
+toc: true
+excerpt: This post demonstrate the fundamental conepts in TensorFlow. TensorFlow is a end-to-end open souce Machine learning framework. It can be used to implement complex deep learning models using inbuilt methods. It also blends very nicely with NumPy so we can use the Numpy Arrays in TensorFlow. This is one of the first post in the Deep learning with TensorFlow series.
+permalink: /posts/2021/10/tensor-flow-fundamentals/
+excerpt_separator: <!--more-->
+tags:
+  - cool posts
+  - TensorFlow
+  - Python
+  - Machine learning
+  - Deep Learning
+  - NumPy
+  - Neural Networks
+---
+
 ## Fundamental concepts of TensorFlow:  
 This notebook is an account of my working for the Tensorflow tutorial by Daniel Bourke on Youtube. The Notebook covers key concepts of tensorflow essential for Deep Learning.  It also highlights key points of using the various methods of TensorFlow library and also notes the possible co|mmon errors we are going to encounter during tensorflow. The possible fixes for the errors are also included in the notebook.
 
