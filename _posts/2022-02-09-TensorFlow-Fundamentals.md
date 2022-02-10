@@ -2619,7 +2619,7 @@ You can also find information about your GPU using `!nvidia-smi`.
 
 ### Solutions to the Exercises given in the tutorial Notebook:
 
-1. Create a vector, scalar, matrix and tensor with values of your choosing using `tf.constant()`.
+  Create a vector, scalar, matrix and tensor with values of your choosing using `tf.constant()`.
 
 
 ```python
@@ -2658,7 +2658,7 @@ A1,A2,A3,A4
 
 
 
-2. Find the shape, rank and size of the tensors you created in 1.
+  Find the shape, rank and size of the tensors you created in 1.
 
 
 ```python
@@ -2720,7 +2720,7 @@ tf.shape(A4), tf.size(A4), tf.rank(A4)
 
 
 
-3. Create two tensors containing random values between 0 and 1 with shape `[5, 300]`.
+  Create two tensors containing random values between 0 and 1 with shape `[5, 300]`.
 
 
 ```python
@@ -2758,7 +2758,7 @@ B1,B2
 
 
 
-4. Multiply the two tensors you created in 3 using matrix multiplication.
+  Multiply the two tensors you created above using matrix multiplication.
 
 
 ```python
@@ -2803,7 +2803,7 @@ tf.matmul(tf.transpose(B1), B2)
 
 
 
-5. Multiply the two tensors you created in 3 using dot product.
+  Multiply the two tensors you created above using dot product.
 
 
 ```python
@@ -2823,7 +2823,7 @@ tf.tensordot(B1,tf.transpose(B2), axes = 1)
 
 
 
-6. Create a tensor with random values between 0 and 1 with shape `[224, 224, 3]`.
+  Create a tensor with random values between 0 and 1 with shape `[224, 224, 3]`.
 
 
 ```python
@@ -2888,7 +2888,7 @@ randtensor
 
 
 
-7. Find the min and max values of the tensor you created in 6.
+  Find the min and max values of the tensor you created above
 
 
 ```python
@@ -2914,7 +2914,7 @@ tf.reduce_min(randtensor)
 
 
 
-8. Created a tensor with random values of shape `[1, 224, 224, 3]` then squeeze it to change the shape to `[224, 224, 3]`.
+  Create a tensor with random values of shape `[1, 224, 224, 3]` then squeeze it to change the shape to `[224, 224, 3]`.
 
 
 ```python
@@ -3042,7 +3042,7 @@ G_squeezed, G_squeezed.shape
 
 
 
-9. Create a tensor with shape `[10]` using your own choice of values, then find the index which has the maximum value.
+  Create a tensor with shape `[10]` using your own choice of values, then find the index which has the maximum value.
 
 
 ```python
@@ -3070,7 +3070,7 @@ tf.argmax(nine_ans)
 
 
 
-10. One-hot encode the tensor you created in 9.
+  One-hot encode the tensor you created above.
 
 
 ```python
