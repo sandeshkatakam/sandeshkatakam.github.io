@@ -7,11 +7,12 @@ excerpt: This Notebook demonstrates modelling regression problems using Neural N
 permalink: /posts/2022/02/11/neural-networks-regression-with_tensorflow
 excerpt_separator: <!--more-->
 tags:
-  - cool posts
-  - Pandas
+  - Deep Learning
+  - Machine Learning
+  - Neural Networks
+  - TensorFlow
   - Python
-  - Data Analysis
-  - Data Science
+  - Linear Regression
 ---
 
 [Neural Networks Regression with TensorFlow Blog post](https://sandeshkatakam.github.io/My-Machine_learning-Blog/deeplearning/neuralnetworks/tensorflow/python/linearregression/2022/02/11/Neural-Networks-Regression-with-TensorFlow.html)
