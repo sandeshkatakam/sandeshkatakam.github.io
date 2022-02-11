@@ -1,5 +1,5 @@
 ---
-title: 'Neural Networks Regression with TensorFlow'
+title: 'Neural Networks for Regression with TensorFlow'
 date: 2022-02-11
 toc: true
 excerpt: This Notebook demonstrates modelling regression problems using Neural Networks with TensorFlow. Neural Networks can approximate non-linear relationships within dataset.They can be used for regression problems as well as classification problems.
