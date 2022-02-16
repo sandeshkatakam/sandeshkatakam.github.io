@@ -10,7 +10,7 @@ main:
 #    url: /teaching/ 
     
   - title: "Notes"
-    url: https://ebetica.github.io/jekyllbook/chapters/epilogue/
+    url: /notes/
   
   - title: "Research"
     url: /research/
