@@ -18,6 +18,7 @@ Research interests:
 >* Quantum computing and Quantum Information Theory
 >* Quantum Machine learning.
 >* Scientific Machine learning and Physics-Informed NeuralNets.
+>* Information Theory of Deep Neural Networks
 
 
 
