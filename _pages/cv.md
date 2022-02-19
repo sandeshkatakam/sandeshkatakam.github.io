@@ -45,8 +45,6 @@ I have done multiple self assigned reading project on various topics.
 * Open Source:
   
 
-* [Machine Learning Journal](https://sandeshkatakam.github.io/My-Machine_learning-Blog/)
-
 ## Skills
 
 * Programming languages: Python, Julia, MATLAB, C++
