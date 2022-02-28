@@ -38,24 +38,28 @@ I have done multiple self assigned reading project on various topics.
 
 * [Hand-Written Digit classifier using Neural Netowrks on MNIST data set](https://github.com/sandeshkatakam/coursera-Machine-Learning-Assignments/tree/main/ex4-Handwritten_digit_classifier)  
 
+* [Comparing Neural Network Architectures `EfficientNetB0 vs. ResNet50V2`](https://tensorboard.dev/experiment/homiOjpcQhaNG6GMi9c7oQ/#scalars)
+
+* [Transfer Learning Experiments with 10 food classes from FOOD101 Dataset](https://tensorboard.dev/experiment/0ZGWuA1vTv2NAdhoRmATDw/#scalars)
+
 * Data Analysis in Python Projects:
   * [Axis Bank Stock Data Analysis Project](https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b) 
   *  [Housing Prices Prediction Project](https://gist.github.com/sandeshkatakam/059f27e766bfac09691f261c73a44f73)
 
 * Open Source:
-  
+  * [My Machine learning Library Project](https://github.com/sandeshkatakam/My-ML-Library)
 
 ## Skills
 
 * Programming languages: Python, Julia, MATLAB, C++
 * Data analysis tools: Numpy, Pandas, scikit learn
-* Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux
-* Quantum Computing : Qiskit, Cirq.
+* Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux.jl
+* Quantum Computing : Qiskit.
 * Version Control : Git, GitHub, GitLab.
-* Web dev tools: Jekyll(static site generator), HTML, CSS
+* Web dev tools: Jekyll(static site generator), HTML, CSS, Django.
 * Data visualization tools: Matplotlib, seaborn
-* Data Base Tools: MySQl
-* DevOps : CI/CD using GitHub actions, travis etc.
+* Data Base Tools: SQLite3.
+* DevOps : CI/CD using GitHub actions, travis, appveyor etc.
 * Cloud Platforms: Azure, AWS.
 * Other Skills: LaTeX, Linux, OOP(Object Oriented programming)
 
