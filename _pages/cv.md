@@ -30,9 +30,6 @@ Sandesh Katakam
 
 ## Research Experience
 
-**Undergraduate Student Researcher**
-
-I have done multiple self assigned reading project on various topics. 
 
 ## Technical Experience
 
