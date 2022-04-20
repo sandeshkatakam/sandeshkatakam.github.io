@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "Page contains updates about my recent research"
+excerpt: "Page contains updates about my current research interests"
 author_profile: true
 redirect_from: 
   - "/nmp/"
