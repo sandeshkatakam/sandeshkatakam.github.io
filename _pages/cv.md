@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}<br />
-<a href='https://www.dropbox.com/s/1tl55n9vcxv2t12/SANDESHCV%20%283%29.pdf?dl=0'>Download PDF here</a><br />
+<a href='https://www.dropbox.com/s/luirg9vyl0jhx42/Sandesh-CV%20-%20Google%20Docs.pdf?dl=0'>Download PDF here</a><br />
 
 
 Sandesh Katakam  
