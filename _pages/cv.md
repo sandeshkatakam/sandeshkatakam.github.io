@@ -23,11 +23,10 @@ Sandesh Katakam
 
 ## Education
 
-* __M.S.__ in Physics, IISER Berhampur, 2025(expected)
+* __M.S.__ in Mathematics, IISER Berhampur, 2025(expected)
   * Thesis: Yet to be declared.
-* __B.S.__ in Physics, Indian Institute of Science Education and Research(IISER) Berhampur
-  * Minor : Mathematics
-
+* __B.S.__ in Mathematics, Indian Institute of Science Education and Research(IISER) Berhampur
+  * Minor : Physics
 ## Research Experience
 
 
