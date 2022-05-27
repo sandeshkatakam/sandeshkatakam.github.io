@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}<br />
 <a href='https://www.dropbox.com/s/luirg9vyl0jhx42/Sandesh-CV%20-%20Google%20Docs.pdf?dl=0'>Download PDF here</a><br />
-<embed src="https://sandeshkatakam.github.io/files/pdf/sandesh_cv.pdf" type="application/pdf" width="90%" /> 
+<!-- <embed src="https://sandeshkatakam.github.io/files/pdf/sandesh_cv.pdf" type="application/pdf" width="90%" /> -->
 
 
 Sandesh Katakam  
