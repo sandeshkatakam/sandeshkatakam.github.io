@@ -90,11 +90,12 @@ $$(h_{\theta}(x) - y)^{2} → should \ be \ minimized$$
 Representation of our Hypothesis function: 
 $$h_{\theta}(x) = \theta_{0} + \theta_{1}\cdot x$$
 
-$$(x^{(i)}, y^{(i)}) \\ \frac{1}{2m}(\sum_{i = 1}^{m}(h_{\theta}(x) - y)^{2})$$
+$$(x^{(i)}, y^{(i)}) $$
+$$ \frac{1}{2m}(\sum_{i = 1}^{m}(h_{\theta}(x) - y)^{2}) $$
 
 In general, our objective is given the hypothesis function,
 $$h_{\theta}(x^{(i)}) = \theta_{0} + \theta_{1}\cdot x^{(i)}$$
-Find the value of $\theta_{0}$, $\theta{1}$ so that the average of $\frac{1}{2m}(\sum_{i = 1}^{m}(h_{\theta}(x) - y)^{2})$ to be minimum.  
+Find the value of $\theta_{0}$, $\theta_{1}$ so that the average of $\frac{1}{2m}(\sum_{i = 1}^{m}(h_{\theta}(x) - y)^{2})$ to be minimum.  
 
 **Cost Function:**  
 
