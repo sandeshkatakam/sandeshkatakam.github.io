@@ -320,8 +320,8 @@ plt.title("A Sample plot of Sigmoid Curve")
 ### Cost Function for Logistic Regression: 
 
 The Cost function for the Logistic Regression can be defined as:  
-$$
-  Cost(h_{\theta}(x) = 
+$
+  Cost(h_{\theta}(x)) = 
   \begin{cases}
     \! % artifact from aligned(at)
     \begin{alignedat}{2}
@@ -331,7 +331,7 @@ $$
       \\
     \end{alignedat}
   \end{cases}
-$$    
+$
 
 $Cost = 0$  if $y = 1$ and $h_{\theta}(x) = 1$
 But as $h_{\theta}(x) \rightarrow 0 $  then, $Cost \rightarrow \infty$  
@@ -362,7 +362,7 @@ To fit paramters $\theta$ : $\min_{\theta} {J(\theta)}$
 To make a prediction given any $x$:
 $$Output: \ h_{\theta}(x) = \frac{1}{1+ e^{-\theta^{T}(x)}}$$
  
-$P(y=1| \ x ; \theta) \rightarrow This \ is \ our \ Hypothesis!!!$
+$P(y=1| \ x ; \theta) \rightarrow This \ is \ our \ Hypothesis $
 
 
 ### Gradient Descent for Logistic Regression:  
