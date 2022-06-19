@@ -320,10 +320,10 @@ plt.title("A Sample plot of Sigmoid Curve")
 ### Cost Function for Logistic Regression: 
 
 The Cost function for the Logistic Regression can be defined as:  
-$
+$$
   Cost(h_{\theta}(x)) = 
   \begin{cases}
-    \! % artifact from aligned(at)
+    \!
     \begin{alignedat}{2}
       & - \log(h_{\theta}(x)), \ if \ y = 1;
       \\
@@ -331,7 +331,7 @@ $
       \\
     \end{alignedat}
   \end{cases}
-$
+$$
 
 $Cost = 0$  if $y = 1$ and $h_{\theta}(x) = 1$
 But as $h_{\theta}(x) \rightarrow 0 $  then, $Cost \rightarrow \infty$  
@@ -370,7 +370,8 @@ $$ P(y=1 \| \ x ; \theta) \rightarrow This \ is \ our \ Hypothesis $$
 The Implementation of gradient descent step is the same as that for Linear Regression. But the only difference here will be the hypothesis function is different.  
 
 #### Algorithm:  
-Repeat until convergence { 
+Repeat until convergence {   
+
 $$\theta_{j} := \theta_{j} - (\alpha)\frac{\partial J(\theta_{0}, \theta_{1})}{\partial θ_{j}} simulataneously \ update \ for \ all \ j$$
 
 }
