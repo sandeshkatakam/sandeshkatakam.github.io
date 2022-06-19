@@ -320,7 +320,7 @@ plt.title("A Sample plot of Sigmoid Curve")
 ### Cost Function for Logistic Regression: 
 
 The Cost function for the Logistic Regression can be defined as:  
-$$
+$$\begin{equation}
   Cost(h_{\theta}(x)) = 
   \begin{cases}
     \!
@@ -331,6 +331,7 @@ $$
       \\
     \end{alignedat}
   \end{cases}
+  \end{equation}
 $$
 
 $Cost = 0$  if $y = 1$ and $h_{\theta}(x) = 1$
