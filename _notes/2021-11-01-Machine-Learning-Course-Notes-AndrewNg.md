@@ -1,11 +1,17 @@
+---
+title: "Machine Learning Course Notes (AndrewNg Course)"
+category: articles
+collection: notes
+permalink: /_notes/2021-11-01-machine-learning-course-notes-andrewng// 
+excerpt: ' My entire Machine learning course notes along with code implementations for all algorithms. The notes are based on the course taught by AndrewNg offered by stanford on Coursera'
+date: 2021-11-01
+venue: ''
+
+---
+
 # Machine Learning Course Notes - AndrewNg(with code implementations of Algorithms)
 > My entire Machine learning course notes along with code implementations for all algorithms. The notes are based on the course taught by AndrewNg offered by stanford on Coursera.
 
-- toc: true 
-- badges: true
-- comments: true
-- categories: [Machine-Learning]
-- image: images/stanford_ml_course.png
 
 ## Introduction to Machine learning:
 * Types of Ml problems
