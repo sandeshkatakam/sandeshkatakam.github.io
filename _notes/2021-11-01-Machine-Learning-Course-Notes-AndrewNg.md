@@ -362,7 +362,7 @@ To fit paramters $\theta$ : $\min_{\theta} {J(\theta)}$
 To make a prediction given any $x$:
 $$Output: \ h_{\theta}(x) = \frac{1}{1+ e^{-\theta^{T}(x)}}$$
  
-\\( P(y=1 | \ x ; \theta) \rightarrow This \ is \ our \ Hypothesis \\)
+$$ P(y=1 | \ x ; \theta) \rightarrow This \ is \ our \ Hypothesis $$
 
 
 ### Gradient Descent for Logistic Regression:  
