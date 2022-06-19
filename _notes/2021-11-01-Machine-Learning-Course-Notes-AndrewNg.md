@@ -1,5 +1,6 @@
 ---
 title: "Machine Learning Course Notes (AndrewNg Course)"
+toc: true
 category: articles
 collection: notes
 permalink: /_notes/2021-11-01-machine-learning-course-notes-andrewng// 
