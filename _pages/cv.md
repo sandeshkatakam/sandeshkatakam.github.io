@@ -31,43 +31,47 @@ Sandesh Katakam
 ## Research Experience
 
 
-## Technical Experience
+## Experience
 
-* [Hand-Written Digit classifier using Neural Netowrks on MNIST data set](https://github.com/sandeshkatakam/coursera-Machine-Learning-Assignments/tree/main/ex4-Handwritten_digit_classifier)  
+* Research Intern, IISER Berhampur (March 2022 - Present):
+  > I am currently a research intern in Dr.Vivek Tiwari's NeuroImaging:
+Brain Research group. I am working on generating an efficient masking
+model for segmenting brain tumors and classifying the tumor into
+ET(Enhancing tumor), WT(Whole Tumor), and TC(Tumor Core).
 
-* [Comparing Neural Network Architectures `EfficientNetB0 vs. ResNet50V2`](https://tensorboard.dev/experiment/homiOjpcQhaNG6GMi9c7oQ/#scalars)
+* Summer research Intern, IIT Hyderabad (May 2022 - Present):
+  > I worked at IIT Hyderabad CS and A.I. Department under Prof. Srijith
+P.K. I worked on NeuralODEs for Irregularly sample Time-series data.
+We used variation of Heat equation as our Differential Equation to
+model the parameters of the Neural Network.[GitHub Link](https://sandeshkatakam.github.io/My-Machine_learning-Blog/deep%20learning/neuralnetworks/jax_library/neuralodes/resnets/2022/05/31/NeuralODEs-Tutorial.html)
 
-* [Transfer Learning Experiments with 10 food classes from FOOD101 Dataset](https://tensorboard.dev/experiment/0ZGWuA1vTv2NAdhoRmATDw/#scalars)
-
-* Data Analysis in Python Projects:
-  * [Axis Bank Stock Data Analysis Project](https://gist.github.com/sandeshkatakam/891945502c6e0914ebb0436f0029971b) 
-  *  [Housing Prices Prediction Project](https://gist.github.com/sandeshkatakam/059f27e766bfac09691f261c73a44f73)
-
-* Open Source:
-  * [My Machine learning Library Project](https://github.com/sandeshkatakam/My-ML-Library)
+* **Open Source Projects:**
+  * [My Machine learning Library Project](https://github.com/sandeshkatakam/My-ML-Library):
+    > Implemented basic Machine Learning Algorithms in
+Python from scratch using only Numpy and Pandas.
+Algorithms Implemented -Decision Tree, KNN,
+K-Means, Neural Network, Logistic Regression, Linear
+Regression.
 
 ## Skills
 
 * Programming languages: Python, Julia, MATLAB, C++
-* Data analysis tools: Numpy, Pandas, scikit learn
-* Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux.jl
+* Data analysis tools: Numpy, Pandas, scikit-learn
+* Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux.jl, DiffEqFlux.jl
 * Quantum Computing : Qiskit.
-* Version Control : Git, GitHub, GitLab.
+* Version Control : Git, GitHub.
 * Web dev tools: Jekyll(static site generator), HTML, CSS, Django.
 * Data visualization tools: Matplotlib, seaborn
 * Data Base Tools: SQLite3.
-* DevOps : CI/CD using GitHub actions, travis, appveyor etc.
-* Cloud Platforms: Azure, AWS.
-* Other Skills: LaTeX, Linux, OOP(Object Oriented programming)
+* Other Skills: LaTeX, OOP(Object Oriented programming)
 
 ## Research interests
 
-* Mathematical Finance and Stochastic Process
+* Ordinary Differential equations/Partial Differential Equation and Stochastic processes.
+* Scientific Machine learning, Physics-Informed NeuralNets and Neural ODEs.
 * Optimization Methods, Numerical Analysis and Simulations
-* Deep learning and Deep Reinforcement learning
-* Quantum computing and Quantum Information Theory
-* Quantum Machine learning.
-* Scientific Machine learning and Physics-Informed NeuralNets
+*  Machine learning Algorithms and Deep Learning for Medical Research.
+* Quantum computing/Information Theory and Quantum Machine learning.
 
 
 ## Achievements:
@@ -82,7 +86,8 @@ Sandesh Katakam
 * International Congress on Mathematical Physics:
   * [Certificate](https://drive.google.com/file/d/1bEbMV4FJnXpocoT2GSPFEhWP8e5emywi/view?usp=sharing)  
 
-* SLAC Summer Institute 2021
+
+* SciML Con 2022(Scientific Machine learning Conference by Julia programming language): Attendee
 
 ## MOOCs:
 * [Data Analysis with Python: Zero to Pandas](https://drive.google.com/file/d/1Y3-A7VCPIkVyOlYTC4-Acf5VD_9JJH_L/view?usp=sharing).
