@@ -28,22 +28,29 @@ Sandesh Katakam
   * Thesis: Yet to be declared.
 * __B.S.__ in Mathematics, Indian Institute of Science Education and Research(IISER) Berhampur
   * Minor : Physics
+
+
 ## Research Experience
 
 
-## Experience
-
-* Research Intern, IISER Berhampur (March 2022 - Present):
+* **Research Intern, IISER Berhampur (March 2022 - Present):**
   > I am currently a research intern in Dr.Vivek Tiwari's NeuroImaging:
 Brain Research group. I am working on generating an efficient masking
 model for segmenting brain tumors and classifying the tumor into
 ET(Enhancing tumor), WT(Whole Tumor), and TC(Tumor Core).
 
-* Summer research Intern, IIT Hyderabad (May 2022 - Present):
+* **Summer research Intern, IIT Hyderabad (May 2022 - Present):**
   > I worked at IIT Hyderabad CS and A.I. Department under Prof. Srijith
 P.K. I worked on NeuralODEs for Irregularly sample Time-series data.
 We used variation of Heat equation as our Differential Equation to
 model the parameters of the Neural Network.[GitHub Link](https://sandeshkatakam.github.io/My-Machine_learning-Blog/deep%20learning/neuralnetworks/jax_library/neuralodes/resnets/2022/05/31/NeuralODEs-Tutorial.html)
+
+* **Brain Tumor Segmentation Project (April 2022):**
+  I worked on Brain Tumor segmentation using U-Net and generating an
+effective mask for brain tumors. We reproduced the results from the
+paper “3D MRI BrainTumor Segmentation using Autoencoder
+regularization” by NVIDIA Labs. We are working on implementing
+NeuralODE model for Brain Tumor segmentation.
 
 * **Open Source Projects:**
   * [My Machine learning Library Project](https://github.com/sandeshkatakam/My-ML-Library):
