@@ -23,6 +23,7 @@ Sandesh Katakam
 ----
 
 ## Education
+<hr>
 
 * __M.S.__ in Mathematics, IISER Berhampur, 2025(expected)
   * Thesis: Yet to be declared.
