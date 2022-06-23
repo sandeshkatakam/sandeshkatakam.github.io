@@ -32,7 +32,7 @@ Sandesh Katakam
 
 
 ## Research Experience
-
+<hr>
 
 * **Research Intern, IISER Berhampur (March 2022 - Present):**
   > I am currently a research intern in Dr.Vivek Tiwari's NeuroImaging:
@@ -62,6 +62,7 @@ K-Means, Neural Network, Logistic Regression, Linear
 Regression.
 
 ## Skills
+<hr>
 
 * Programming languages: Python, Julia, MATLAB, C++
 * Data analysis tools: Numpy, Pandas, scikit-learn
@@ -74,6 +75,7 @@ Regression.
 * Other Skills: LaTeX, OOP(Object Oriented programming)
 
 ## Research interests
+<hr>
 
 * Ordinary Differential equations/Partial Differential Equation and Stochastic processes.
 * Scientific Machine learning, Physics-Informed NeuralNets and Neural ODEs.
@@ -83,6 +85,7 @@ Regression.
 
 
 ## Achievements:
+<hr>
 
 * National graduate Physics Examintaion 2021:  
   * [Center Topper Certificate](https://drive.google.com/file/d/1T1zBHhxItLTdXpi7-AffbiSNcM0oltBV/view?usp=sharing)  
@@ -90,6 +93,7 @@ Regression.
 * Qualified in JEE Advanced 2020:  
 
 ## Conferences, Talks and Summer Schools(Attendee):
+<hr>
 
 * International Congress on Mathematical Physics:
   * [Certificate](https://drive.google.com/file/d/1bEbMV4FJnXpocoT2GSPFEhWP8e5emywi/view?usp=sharing)  
@@ -98,6 +102,8 @@ Regression.
 * SciML Con 2022(Scientific Machine learning Conference by Julia programming language): Attendee
 
 ## MOOCs:
+<hr>
+
 * [Data Analysis with Python: Zero to Pandas](https://drive.google.com/file/d/1Y3-A7VCPIkVyOlYTC4-Acf5VD_9JJH_L/view?usp=sharing).
 * [Machine learning](https://drive.google.com/file/d/1Giafic7qIe1O4UcWVz3ueT-lvrx-s-8D/view?usp=sharing) 
 * [Deep learning Specialization](https://drive.google.com/file/d/1GKMuHj2QSULztLGGQVW41qXAxUIw2G4v/view?usp=sharing)
