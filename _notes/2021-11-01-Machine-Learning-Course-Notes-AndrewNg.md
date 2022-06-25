@@ -15,15 +15,15 @@ venue: ''
 
 
 ## Introduction to Machine learning:
-* Types of Ml problems
-* Types of Ml algorithms:
+* Types of ML problems
+* Types of ML algorithms:
   * Supervised learning
   * Unsupervised learning
   * semi supervised learning
   * Reinforcement learning
 * Singular Value Decomposition method
 
-### Definition of Machine learning: 
+### Definition of Machine Learning: 
 Many attempts were made to define what is machine learning. Some of the prominent definitions are: 
 * **Arthur Samuel(1959)** : Field of study that gives computers the ability to learn without being explicitly programmed.
 * **Tom Mitchell(1998)**:   
