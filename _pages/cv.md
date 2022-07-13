@@ -104,6 +104,7 @@ Regression.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="/images/mongodblogo.jpeg" title="MongoDB" alt="MongoDB" width="80" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="40"/>&nbsp;
+  <img src="https://0ebdc219a6018a0b4949-5cd5d2f3f64eaf0eb4e05aee819f5378.ssl.cf5.rackcdn.com/workflows/deploy-to-github-pages/cover-deploy-to-github-pages.png" title="Django" alt="Django" width="150" height="70"/>&nbsp;
           
 </div>
 * Programming languages: Python, Julia, MATLAB, C++
