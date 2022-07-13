@@ -89,6 +89,7 @@ Regression.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://fluxml.ai/Flux.jl/stable/assets/logo.png" title="Flux.jl" alt="Flux.jl" width="80" height="40"/>&nbsp;
   <img src="/images/scikit-learn.png" title="Flux.jl" alt="Flux.jl" width="80" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/590px-Qiskit-Logo.svg.png?20200211104214" title="Qiskit" alt="Qiskit" width="40" height="40"/>&nbsp;
 </div>
 
 ### Version Control and DevOps Tools 
