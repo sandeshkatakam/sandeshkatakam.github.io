@@ -88,7 +88,10 @@ Regression.
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://fluxml.ai/Flux.jl/stable/assets/logo.png" title="Flux.jl" alt="Flux.jl" width="80" height="40"/>&nbsp;
+  <img src="https://docs.juliahub.com/DiffEqOperators/Vx3Cs/4.20.0/assets/logo.png" title="DiffEqFlux.jl" alt="DiffEqFlux.jl" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" title="Scikit-learn" alt="Scikit-learn" width="60" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda Package manager" alt="Anaconds package manager" width="60" height="40"/>&nbsp;
+          
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/590px-Qiskit-Logo.svg.png?20200211104214" title="Qiskit" alt="Qiskit" width="40" height="40"/>&nbsp;
 </div>
 
@@ -96,6 +99,8 @@ Regression.
 <div>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo-500x313.png" title="Git" alt="Git" width="60" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" title="GitHub" alt="GitHub" width="80" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="60" height="40"/>&nbsp;
+          
 </div>
 
 ### Web Devlopment Tools  
@@ -104,10 +109,22 @@ Regression.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png?20180423180141" title="MongoDB" alt="MongoDB" width="80" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="80" height="40"/>&nbsp;
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="40"/>&nbsp;
+          
           
 </div>
 
+### Other Skills  
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="50" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux OS" alt="Linux OS" width="50" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="40"/>&nbsp;
+</div> 
 <!--* Programming languages: Python, Julia, MATLAB, C++
 * Data analysis tools: Numpy, Pandas, scikit-learn
 * Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux.jl, DiffEqFlux.jl
@@ -118,7 +135,7 @@ Regression.
 * Data Base Tools: SQLite3.
 * Other Skills: LaTeX, OOP(Object Oriented programming) -->
   
-  
+
 ## Research interests
 <hr>
 
