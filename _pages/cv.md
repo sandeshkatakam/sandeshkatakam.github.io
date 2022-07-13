@@ -107,7 +107,8 @@ Regression.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="40"/>&nbsp;
           
 </div>
-* Programming languages: Python, Julia, MATLAB, C++
+
+<!--* Programming languages: Python, Julia, MATLAB, C++
 * Data analysis tools: Numpy, Pandas, scikit-learn
 * Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux.jl, DiffEqFlux.jl
 * Quantum Computing : Qiskit.
@@ -115,8 +116,9 @@ Regression.
 * Web dev tools: Jekyll(static site generator), HTML, CSS, Django.
 * Data visualization tools: Matplotlib, seaborn
 * Data Base Tools: SQLite3.
-* Other Skills: LaTeX, OOP(Object Oriented programming)
-
+* Other Skills: LaTeX, OOP(Object Oriented programming) -->
+  
+  
 ## Research interests
 <hr>
 
