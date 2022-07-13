@@ -90,6 +90,22 @@ Regression.
   <img src="https://fluxml.ai/Flux.jl/stable/assets/logo.png" title="Flux.jl" alt="Flux.jl" width="80" height="40"/>&nbsp;
   <img src="/images/scikit-learn.png" title="Flux.jl" alt="Flux.jl" width="80" height="40"/>&nbsp;
 </div>
+
+### Version Control and DevOps Tools 
+<div>
+  <img src="/images/gitlogo.jpeg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="/images/githublogo.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+</div>
+
+### Web Devlopment Tools  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="/images/mongodblogo.jpeg" title="MongoDB" alt="MongoDB" width="80" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="40"/>&nbsp;
+          
+</div>
 * Programming languages: Python, Julia, MATLAB, C++
 * Data analysis tools: Numpy, Pandas, scikit-learn
 * Machine learning Libraries:  Tensorflow, Pytorch, Fastai, Flux.jl, DiffEqFlux.jl
