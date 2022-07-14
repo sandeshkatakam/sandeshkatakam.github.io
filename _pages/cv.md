@@ -79,7 +79,7 @@ Regression.
   
 </div>
 
-### Scientific Computing Packages and Environments 
+### Scientific Computing and Machine Learning libraries and Frameworks
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://scipy.org/images/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
