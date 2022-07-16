@@ -58,7 +58,7 @@ python reconstruct.py --bsize #batchsize --epochs #epochs --gensamples #no.ofsam
 
 ### An example usage :
 #### Only For Training the Model
-python```
+```
 python data_preprocessing.py --path "dataset.xlsx" --bsize 64
 
 python train_model.py --epochs 1000 --bsize 1024
