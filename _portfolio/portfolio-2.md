@@ -15,7 +15,7 @@ Paper link: [Link to the NormVAE paper](https://arxiv.org/pdf/2110.04903.pdf)
 Implementation of NormVAE Paper using PyTorch Framework on Custom Dataset(ADNI Dataset).
 
 
-<img src="https://github.com/sandeshkatakam/NormVAE-Neuroimaging/blob/main/normvae.png" alt="drawing" width="400" class = "center"/>
+<img src="images/normvae.png" alt="drawing" width="400" class = "center"/>
 Source : NormVAE: Normative Modelling on Neuroimaging Data using Variational Autoencoders paper, Fig. 1
 ### Usage:
 
@@ -58,7 +58,7 @@ python reconstruct.py --bsize #batchsize --epochs #epochs --gensamples #no.ofsam
 
 ### An example usage :
 #### Only For Training the Model
-```
+python```
 python data_preprocessing.py --path "dataset.xlsx" --bsize 64
 
 python train_model.py --epochs 1000 --bsize 1024
