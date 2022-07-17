@@ -17,10 +17,11 @@ Implementation of NormVAE Paper using PyTorch Framework on Custom Dataset(ADNI D
 
 <img src="images/normvae.png" alt="drawing" width="400" class = "center"/>
 Source : NormVAE: Normative Modelling on Neuroimaging Data using Variational Autoencoders paper, Fig. 1
-### Usage:
+
+## Usage:
 
 ### Installing Dependencies:
-```
+```python
 pip install -r requirements.txt
 ```
 
@@ -30,48 +31,48 @@ The following packages will be installed :
 * Pandas
 * Scikit-Learn
 ### Data Preprocessing Step:
-```
+```python
 python data_preprocessing.py --path "/path/to/dataset" --bsize #batchsize
 ```
 
 * An example:  
-```
+```python
 python data_preprocessing.py --path "dataset.xlsx" --bsize 64
 ```
 
 ### Training the Model: (step by step process) 
 * Download the code from the repository and get the dataset file or modify the dimensions in the code for your dataset.  
 * After downloading the repository from the terminal go to the directory and Install depedencies using : 
-```
+```python
 pip install -r requirements.txt
 ```
 * Preprocess data using the data preprocessing script
-```
+```python
 python data_preprocessing.py --path "/path/to/dataset" --bsize #batchsize
 ```
 
 * To generate the reconstructed samples along with training the model:
   * number of samples can be given using --gensamples
-```
+```python
 python reconstruct.py --bsize #batchsize --epochs #epochs --gensamples #no.ofsamples --output_format {outputformat as string} 
 ```
 
 ### An example usage :
 #### Only For Training the Model
-```
+```python
 python data_preprocessing.py --path "dataset.xlsx" --bsize 64
 
 python train_model.py --epochs 1000 --bsize 1024
 ```
 #### For Training the Model and Generating reconstructed samples
 * To save the reconstructed samples in excel file:  
-```
+```python
 python data_preprocessing.py --path "dataset.xlsx" --bsize 64
 
 python reconstruct.py --bsize 64 --epochs 1000 --gensamples 20 --output_format "xlsx"
 ```
 * To save the reconstructed samples as csv file:
-```
+```python
 python data_preprocessing.py --path "dataset.xlsx" --bsize 64
 
 python reconstruct.py --bsize 64 --epochs 1000 --gensamples 20 --output_format "csv"
@@ -81,7 +82,7 @@ python reconstruct.py --bsize 64 --epochs 1000 --gensamples 20 --output_format "
 
 * For more help on how to use the model with different hyperparameters: 
 
-```
+```python
 python train_model.py -h
 ```
 
