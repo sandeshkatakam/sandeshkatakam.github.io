@@ -20,6 +20,7 @@ Research interests:
 >* Scientific Machine learning and Physics-Informed NeuralNets.
 >* Information Theory of Deep Neural Networks
 >* NeuralODEs and Stochastic NeuralODEs
+>* Mathematical Biology and Information Biology
 
 
 ## 🛠️ Languages and Tools
