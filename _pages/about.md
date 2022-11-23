@@ -78,13 +78,13 @@ Updates
                   <div class="col">Graduated from IIT Bombay with B.Tech. in Computer Science and Engineering, securing a <span style="color: blue;">GPA of 9.75/10</span> </div>
                 </div> -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[Nov 2019]</div>
-                  <div class="col"> Started new position in the Department of Physics, IISER Berhampur as Project student under Dr. Rahul Sharma. Will be working on denoising models for STM images(scanning tunneling microscopy)  </div>
+                <div class="col-xs-4 col-md-3 update-dates">[<mark> Nov 2019<mark> ]</div>
+                  <div class="col"> Started new position in the <mark> Department of Physics, IISER Berhampur<mark> as Project student under <mark> Dr. Rahul Sharma<mark> . Will be working on denoising models for STM images(scanning tunneling microscopy)  </div>
                 </div>
                 <!-- Silver medal iGEM Grand Jamboree 2022 -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[July 2021]</div>
-                  <div class="col"> Our Team secured Silver Medal in iGEM Grand Jamboree 2022 at Paris, France </div>
+                  <div class="col-xs-4 col-md-3 update-dates">[<mark> July 2021<mark> ]</div>
+                  <div class="col"> Our Team secured <mark> Silver Medal<mark>  in iGEM Grand Jamboree 2022 at Paris, France </div>
                 </div>
                 <!-- GCPR acceptance 
                 <div class="row">
@@ -113,20 +113,20 @@ Updates
                 </div> -->
                 <!-- iGEM Team IISER Berhampur-->
                <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[June 2022]</div>
-                  <div class="col"> Started position at iGEM Team IISER Berhampur in the Modelling Team</div>
+                <div class="col-xs-4 col-md-3 update-dates">[<mark> June 2022<mark> ]</div>
+                  <div class="col"> Started position at <mark> iGEM Team IISER Berhampur<mark>  in the Modelling Team</div>
                 </div>
                 <!-- IIT Hyderabad Internship -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[May 2022]</div>
-                  <div class="col"> Started Internship at IIT Hyderabad, Department of A.I. Under Prof. Srijit P.K.</div>
+                <div class="col-xs-4 col-md-3 update-dates">[<mark> May 2022<mark> ]</div>
+                  <div class="col"> Started Internship at <mark> IIT Hyderabad, Department of A.I.<mark>  Under <mark> Prof. Srijit P.K.<mark> </div>
                 </div>
                 <!-- Department of Physics IISER Berhampur Internship -->
                 
                 <!-- Neuroimaging group Internship -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[March 2022]</div>
-                  <div class="col"> Started position as undergraduate student researcher in the NeuroImaging and Brain Research Group, IISER Berhampur under Dr. Vivek Tiwari
+                <div class="col-xs-4 col-md-3 update-dates">[<mark> March 2022<mark> ]</div>
+                  <div class="col"> Started position as undergraduate student researcher in the <mark> NeuroImaging and Brain Research Group, IISER Berhampur<mark>  under <mark> Dr. Vivek Tiwari<mark> 
                   </div>
                 </div>
             </div>
