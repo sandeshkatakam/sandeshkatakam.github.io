@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in Mathematics. I am interested in Neural Differential Equations, Scientific Machine learning and Information Theory. I am currently working on NeuralODEs and their application to sequence modeling(like LSTMs and Time-series forecasting). I am equipped with strong programming skills and am a self-taught programmer. The programming languages I currently work with are Python, Julia, C++, and MATLAB. I am more into the mathematics of machine learning rather than production-based ML models. I wish to understand the concept of interpretability and causal inference for machine learning models(which means I am more interested in what the model is learning from data rather than how good it is learning from the given data). I am experienced in working with various machine learning frameworks such as TensorFlow, PyTorch, JAX and SciML ecosystem in Julia programming language. I would like to work on projects that lies in the intersection of differential equations and neural networks. I have previously worked with NeuralODE models for irregularly sampled time series data. I have also worked on Applied machine learning, mainly deep learning for medical imaging. One of my other interests is Deep learning for disease pathology and healthcare. 
+I am an undergraduate student majoring in Mathematics. I am interested in Neural Differential Equations, Scientific Machine learning and Information Theory. I am currently working on the conjoining of Dynamical systems and Deep Learning. I am proficient in Julia, Python, C/C++, MATLAB and Bash(shell-scripting). I like working on projects. I am interested in developing Robust Machine Learning models and improving existing models towards better interpretability.
 
 
 Research interests:
@@ -16,7 +16,12 @@ Research interests:
 >* Neural Differential Equations and Scientific Machine Learning
 >* Optimization Methods, Numerical Analysis and Simulations
 >* Deep learning and Deep Reinforcement learning
->* Applied Mathematics for Deep Learning
+>* Mathematics of Deep Learning
+>* Deep Learning for Medical Imaging and AI4Health
+>* Robustness of Machine learning models
+
+
+
 
 Updates
 ------
