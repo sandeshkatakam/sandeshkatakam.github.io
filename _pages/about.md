@@ -130,7 +130,7 @@ Updates
                 
                 <!-- Neuroimaging group Internship -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[ March 2022]</div>
+                <div class="col-xs-4 col-md-3 update-dates">[ <a href>March 2022</a>]</div>
                   <div class="col"> Started position as undergraduate student researcher in the NeuroImaging and Brain Research Group, IISER Berhampur under Dr. Vivek Tiwari 
                   </div>
                 </div>
