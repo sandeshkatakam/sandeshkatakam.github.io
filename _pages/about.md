@@ -88,7 +88,7 @@ Updates
                 </div>
                 <!-- Silver medal iGEM Grand Jamboree 2022 -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[ July 2021 ]</div>
+                  <div class="col-xs-4 col-md-3 update-dates">[<a href> July 2021 </a> ]</div>
                   <div class="col"> Our Team secured Silver Medal  in iGEM Grand Jamboree 2022 at Paris, France </div>
                 </div>
                 <!-- GCPR acceptance 
@@ -118,12 +118,12 @@ Updates
                 </div> -->
                 <!-- iGEM Team IISER Berhampur-->
                <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[June 2022]</div>
+                <div class="col-xs-4 col-md-3 update-dates">[<a href>June 2022 </a>]</div>
                   <div class="col"> Started position at iGEM Team IISER Berhampur  in the Modelling Team</div>
                 </div>
                 <!-- IIT Hyderabad Internship -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[May 2022]</div>
+                <div class="col-xs-4 col-md-3 update-dates">[<a href>May 2022 </a>]</div>
                   <div class="col"> Started Internship at IIT Hyderabad, Department of A.I. Under Prof. Srijit P.K. </div>
                 </div>
                 <!-- Department of Physics IISER Berhampur Internship -->

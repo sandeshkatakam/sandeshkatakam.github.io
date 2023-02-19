@@ -28,13 +28,17 @@ Sandesh Katakam
 * __M.S.__ in Mathematics, IISER Berhampur, 2025(expected)
   * Thesis: Yet to be declared.
 * __B.S.__ in Mathematics, Indian Institute of Science Education and Research(IISER) Berhampur
-  * Minor : Physics
+  * Minor : Biology
 
 
 ## Research Experience
 <hr>
 
-* **Research Intern, IISER Berhampur (March 2022 - Present):**
+* **Research Intern, IISER Berhampur (Novemeber 2022 - Present):**
+  > I am currently a research intern in Dr. Rahul Sharma's LVQM Lab(Laboratory for Visualization of Quantum Materials) lab at IISER Berhampur Department of Physics.
+  I am working on Denoising of STM(Scanning Tunneling Microscopy) Images using Deep Learning Techniques.
+
+* **Research Intern, IISER Berhampur (March 2022 - December 2022):**
   > I am currently a research intern in Dr.Vivek Tiwari's NeuroImaging:
 Brain Research group. I am working on generating an efficient masking
 model for segmenting brain tumors and classifying the tumor into
