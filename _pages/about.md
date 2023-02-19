@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in Mathematics. I am interested in Neural Differential Equations, Scientific Machine learning and Information Theory. I am currently working on the conjoining of Dynamical systems and Deep Learning. I am proficient in Julia, Python, C/C++, MATLAB and Bash(shell-scripting). I like working on projects. I am interested in developing Robust Machine Learning models and improving existing models towards better interpretability.
+I am an undergraduate student majoring in Mathematics. I am interested in Neural Differential Equations, Scientific Machine learning and Information Theory. I am currently working on the conjoining of Dynamical systems and Deep Learning. I am proficient in Julia, Python, C/C++, MATLAB and Bash(shell-scripting). I like working on projects at the interface of deep learning and dynamical systems. I am interested in developing Robust Machine Learning models and improving existing models towards better interpretability.
 
 
 Research interests:
