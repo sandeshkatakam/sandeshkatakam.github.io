@@ -83,12 +83,12 @@ Updates
                   <div class="col">Graduated from IIT Bombay with B.Tech. in Computer Science and Engineering, securing a <span style="color: blue;">GPA of 9.75/10</span> </div>
                 </div> -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[<a href> Nov 2019</a> ]</div>
+                <div class="col-xs-4 col-md-3 update-dates">[<a href> Nov 2022</a> ]</div>
                   <div class="col"> Started new position in the  Department of Physics, IISER Berhampur as Project student under Dr. Rahul Sharma . Will be working on denoising models for STM images(scanning tunneling microscopy)  </div>
                 </div>
                 <!-- Silver medal iGEM Grand Jamboree 2022 -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[<a href> July 2021 </a> ]</div>
+                  <div class="col-xs-4 col-md-3 update-dates">[<a href> Oct 2022 </a> ]</div>
                   <div class="col"> Our Team secured Silver Medal  in iGEM Grand Jamboree 2022 at Paris, France </div>
                 </div>
                 <!-- GCPR acceptance 
