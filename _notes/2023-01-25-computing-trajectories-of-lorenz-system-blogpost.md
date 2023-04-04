@@ -49,9 +49,9 @@ The Lorenz Equations relate the properties of two-dimensional fluid layer unifor
 
 
 
-$$\frac{dx}{dt} = \sigma (y-x)$$
-$$\frac{dy}{dt} = x(\rho - z) - y$$
-$$\frac{dz}{dt} = xy - \beta z$$
+$\frac{dx}{dt} = \sigma (y-x)$  
+$\frac{dy}{dt} = x(\rho - z) - y$  
+$\frac{dz}{dt} = xy - \beta z$  
 
 The Equations below describe the rate of change of three quantities with respect to time:  
   
@@ -101,8 +101,8 @@ def lorzrk(s,t,param):
 * The Runge-Kutta method provides the approximate value of y for a given point x.   
 * Only the first order ODEs can be solved using the Runge Kutta RK4 Method.
   
-$$ y_{1} = y_{0} + \frac{1}{6} \cdot (k_{1} + 2k_{2} + k{4})$$  
-Here,  
+$y_{1} = y_{0} + \frac{1}{6} \cdot (k_{1} + 2k_{2} + k{4})$  
+Here,    
   
 $k_{1} = hf(x_{0}, y_{0})$  
 $k_{2} = hf[x_{0} + \frac{1}{2}h, y_{0} + \frac{1}{2} k_{1}]$  
