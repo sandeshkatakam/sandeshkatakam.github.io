@@ -11,6 +11,7 @@ venue: ''
 ---
 
 # Computing Trajectories of the Lorenz system using Adaptive Runge-Kutta Method
+> Project Authors: K Roshan Raj & Sandesh Katakam
 
 ## Installing Dependencies 
 
@@ -298,7 +299,7 @@ visualize_trajectories(tmax, n, set_axis = "off", change_color = True)
 
 
     
-![png](../_notes/output_17_1.png)
+![png](https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/_notes/output_17_1.png)
     
 
 
@@ -312,7 +313,7 @@ visualize_trajectories(tmax, n, set_axis = "on", change_color = True)
 
 
     
-![png](../_notes/output_20_1.png)
+![png](https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/_notes/output_20_1.png)
     
 
 
@@ -325,7 +326,7 @@ visualize_trajectories(tmax, n, set_axis = "on", change_color = False)
 
 
     
-![png](../_notes/output_19_1.png)
+![png](https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/_notes/output_19_1.png)
     
 
 
