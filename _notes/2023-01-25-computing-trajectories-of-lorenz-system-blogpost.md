@@ -299,7 +299,7 @@ visualize_trajectories(tmax, n, set_axis = "off", change_color = True)
 
 
     
-![png](https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/_notes/output_17_1.png)
+![png](https://ibb.co/M57tNf4)
     
 
 
@@ -313,7 +313,7 @@ visualize_trajectories(tmax, n, set_axis = "on", change_color = True)
 
 
     
-![png](https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/_notes/output_20_1.png)
+![png](https://ibb.co/p0dcFGQ)
     
 
 
@@ -326,7 +326,7 @@ visualize_trajectories(tmax, n, set_axis = "on", change_color = False)
 
 
     
-![png](https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/_notes/output_19_1.png)
+![png](https://ibb.co/gD83kL7)
     
 
 
