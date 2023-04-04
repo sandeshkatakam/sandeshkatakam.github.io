@@ -3,7 +3,7 @@ title: "Computing Trajectories of the Lorenz system using Adaptive Runge-Kutta M
 toc: true
 category: articles
 collection: notes
-permalink: /_notes/2023-04-05-Computing-Trajectories-of-Lorenz-System-of-Equations-using-Adaptive-Runge-Kutta-Method//
+permalink: /_notes/2023-04-05-computing-trajectories-of-lorenz-system// 
 excerpt: 'Computing Trajectories of Lorenz system of equations using Adaptive Runge Kutta Method'
 date: 2023-04-05
 venue: ''
