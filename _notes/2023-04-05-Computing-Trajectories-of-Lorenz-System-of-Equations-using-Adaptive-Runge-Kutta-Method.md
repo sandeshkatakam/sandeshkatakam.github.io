@@ -1,13 +1,14 @@
-# "Computing Trajectories of the Lorenz system using Adaptive Runge-Kutta Method"
- 
-> "Notebook contains the project for the PHY 312 Mid-term Assesment"
-- toc: true
-- badges: true
-- comments: true
-- categories: [python]
-- author: Sandesh Katakam & K Roshan Raj
-- image: images/lorenz.png
+---
+title: "Computing Trajectories of the Lorenz system using Adaptive Runge-Kutta Method"
+toc: true
+category: articles
+collection: notes
+permalink: /_notes//2023-04-05-Computing-Trajectories-of-Lorenz-System-of-Equations-using-Adaptive-Runge-Kutta-Method// 
+excerpt: 'Computing Trajectories of Lorenz system of equations using Adaptive Runge Kutta Method'
+date: 2023-04-05
+venue: ''
 
+---
 ## Installing Dependencies 
 
 
