@@ -209,27 +209,9 @@ def rka(x,t,tau,err,derivsRK,param):
 ```
 
 
-```python
-def lorenz(t, X, sigma, beta, rho):
-    """The Lorenz equations."""
-    u, v, w = X
-    up = -sigma*(u - v)
-    vp = rho*u - v - u*w
-    wp = -beta*w + u*v
-    return up, vp, wp
-
-# Integrate the Lorenz equations.
-soln = solve_ivp(lorenz, (0, tmax), (u0, v0, w0), args=(sigma, beta, rho),
-                 dense_output=True)
-```
-
-    C:\Users\sande\AppData\Local\Temp\ipykernel_30316\743962485.py:28: MatplotlibDeprecationWarning: Calling gca() with keyword arguments was deprecated in Matplotlib 3.4. Starting two minor releases later, gca() will take no keyword arguments. The gca() function should only be used to get the current axes, or if no axes exist, create new axes with default keyword arguments. To create a new axes with non-default arguments, use plt.axes() or plt.subplot().
-      ax = fig.gca(projection='3d')
-    
 
 
     
-![png](output_13_1.png)
     
 
 
@@ -297,31 +279,10 @@ def visualize_trajectories(tmax, n, set_axis = "on", change_color = True, cmap =
 ```
 
 
-```python
-#collapse-hide
-from IPython.core.display import HTML
-HTML("""
-<style>
-.output_png {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-}
-</style>
-""")
-```
 
 
 
 
-
-<style>
-.output_png {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-}
-</style>
 
 
 
@@ -332,13 +293,12 @@ tmax, n = 100, 10000
 visualize_trajectories(tmax, n, set_axis = "off", change_color = True)
 ```
 
-    C:\Users\sande\AppData\Local\Temp\ipykernel_30316\124449006.py:21: MatplotlibDeprecationWarning: Calling gca() with keyword arguments was deprecated in Matplotlib 3.4. Starting two minor releases later, gca() will take no keyword arguments. The gca() function should only be used to get the current axes, or if no axes exist, create new axes with default keyword arguments. To create a new axes with non-default arguments, use plt.axes() or plt.subplot().
-      ax = fig.gca(projection='3d')
+
     
 
 
     
-![png](output_17_1.png)
+![png](../_notes/output_17_1.png)
     
 
 
@@ -347,13 +307,12 @@ visualize_trajectories(tmax, n, set_axis = "off", change_color = True)
 visualize_trajectories(tmax, n, set_axis = "on", change_color = True)
 ```
 
-    C:\Users\sande\AppData\Local\Temp\ipykernel_30316\124449006.py:21: MatplotlibDeprecationWarning: Calling gca() with keyword arguments was deprecated in Matplotlib 3.4. Starting two minor releases later, gca() will take no keyword arguments. The gca() function should only be used to get the current axes, or if no axes exist, create new axes with default keyword arguments. To create a new axes with non-default arguments, use plt.axes() or plt.subplot().
-      ax = fig.gca(projection='3d')
+
     
 
 
     
-![png](output_18_1.png)
+![png](../_notes/output_20_1.png)
     
 
 
@@ -362,13 +321,11 @@ visualize_trajectories(tmax, n, set_axis = "on", change_color = True)
 visualize_trajectories(tmax, n, set_axis = "on", change_color = False)
 ```
 
-    C:\Users\sande\AppData\Local\Temp\ipykernel_30316\124449006.py:21: MatplotlibDeprecationWarning: Calling gca() with keyword arguments was deprecated in Matplotlib 3.4. Starting two minor releases later, gca() will take no keyword arguments. The gca() function should only be used to get the current axes, or if no axes exist, create new axes with default keyword arguments. To create a new axes with non-default arguments, use plt.axes() or plt.subplot().
-      ax = fig.gca(projection='3d')
     
 
 
     
-![png](output_19_1.png)
+![png](../_notes/output_19_1.png)
     
 
 
