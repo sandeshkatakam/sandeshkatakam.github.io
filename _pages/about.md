@@ -77,11 +77,11 @@ Updates
                   <div class="col-xs-4 col-md-3 update-dates">[Aug 2021]</div>
                   <div class="col">Received the Research Excellence Award for my Bachelor Thesis</div>
                 </div> -->
-                <!-- IITB Graduation
+                <!-- IITB Graduation-->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[Aug 2021]</div>
-                  <div class="col">Graduated from IIT Bombay with B.Tech. in Computer Science and Engineering, securing a <span style="color: blue;">GPA of 9.75/10</span> </div>
-                </div> -->
+                  <div class="col-xs-4 col-md-3 update-dates">[Mar 2023]</div>
+                  <div class="col">Awarded Summer Research Fellowship by Indian Academy of Sciences to work under Dr. Sudarshan Iyengar HoD of CSE dept at IIT Ropar</div>
+                </div> 
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[<a href> Nov 2022</a> ]</div>
                   <div class="col"> Started new position in the  Department of Physics, IISER Berhampur as Project student under Dr. Rahul Sharma . Will be working on denoising models for STM images(scanning tunneling microscopy)  </div>
