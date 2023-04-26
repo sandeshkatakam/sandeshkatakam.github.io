@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-## Neural Differential Equations
+## [Neural Differential Equations]()
 <img src="../images/neuralodes.jpeg" align="right" width="200px"/>
 Neural Differential Equations are new class of deep learning models that show promising results for tasks like generative modelling, time-series modelling etc. Neural differential equations have applications to both deep learning and traditional mathematical modelling. They offer memory efficiency, the ability to handle irregular data, strong priors on model space, high capacity function approximation, and draw on a deep well of theory on both sides. 
 <br clear="right"/>
@@ -18,10 +18,6 @@ Neural Differential Equations are new class of deep learning models that show pr
 Physics Informed Neural Networks are new clas
 
 
-## Scientific Computing  and High Performance Computing
-
-I am currently interested in learning and implementing scientific computing methods in my projects.
-
 
 
 ## Model-Based Deep Reinforcement Learning
@@ -30,9 +26,9 @@ I am currently interested in learning and implementing scientific computing meth
     
 ## ML4Health: Medical Imaging and Time-series analysis of Health Care data
 
-## Julia Programming Language 
 
-## Mathematics of Machine Learning and Optimization Algorithms
+
+
 
 
 
