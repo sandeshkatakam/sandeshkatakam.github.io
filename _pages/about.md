@@ -7,20 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+>  *"If you think you have reached the peak of a mountain, then find a bigger mountain"* 
 
 I am an undergraduate student majoring in Mathematics. I am interested in Neural Differential Equations, Scientific Machine learning and Information Theory. I am currently working on the conjoining of Dynamical systems and Deep Learning. I am proficient in Julia, Python, C/C++, MATLAB and Bash(shell-scripting). I like working on projects at the interface of deep learning and differential equations. I am interested in developing Robust Machine Learning models and improving existing models towards better interpretability.
 
+Education:
+------- 
+
+* __M.S.__ in Mathematics, IISER Berhampur, 2025(expected)
+  * Thesis: Yet to be declared.
+* __B.S.__ in Mathematics, Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
 
 Research interests:
 ------  
->* Neural Differential Equations and Scientific Machine Learning
->* Optimization Methods, Numerical Analysis and Simulations
->* Deep learning and Deep Reinforcement learning
->* Mathematics of Deep Learning
->* Deep Learning for Medical Imaging and AI4Health
->* Robustness of Machine learning models
-
-
+>* Neural Differential Equations and Scientific Machine Learning Methods
+>* Optimization Methods, Numerical Analysis and Scientific Computing
+>* Deep Reinforcement learning and Optimal Control Problems
+>* Mathematics of Deep Learning and Robustness of Machine learning models
+>* Deep Learning for Medical Imaging and Sequential Decision Making for Health Care Applications
 
 
 Updates
@@ -127,11 +131,15 @@ Updates
                   <div class="col"> Started Internship at IIT Hyderabad, Department of A.I. Under Prof. Srijit P.K. </div>
                 </div>
                 <!-- Department of Physics IISER Berhampur Internship -->
-                
-                <!-- Neuroimaging group Internship -->
+                <!-- NeuroImaging and Brain Research Group -->
                 <div class="row">
-                <div class="col-xs-4 col-md-3 update-dates">[ <a href>March 2022</a>]</div>
-                  <div class="col"> Started position as undergraduate student researcher in the NeuroImaging and Brain Research Group, IISER Berhampur under Dr. Vivek Tiwari 
+                  <div class="col-xs-4 col-md-3 update-dates">[<a href>Mar 2022 </a> ]</div>
+                  <div class="col"> Started position as Undergraduate Research Assistant in the NeuroImaging and Brain Research Group, IISER Berhampur under Dr. Vivek Tiwari </div>
+                </div>
+                <!-- Joined BS MS Dual Degree at IISER Berhampur -->
+                <div class="row">
+                <div class="col-xs-4 col-md-3 update-dates">[ <a href>Dec 2020</a>]</div>
+                  <div class="col"> Admitted to BS-MS Dual Degree Programme at IISER Berhampur through JEE Advanced Channel
                   </div>
                 </div>
             </div>
