@@ -1,10 +1,10 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/
+ - title: "Publications"
+   url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+ - title: "Talks & Presentations"
+   url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/ 
@@ -19,7 +19,7 @@ main:
     url: https://github.com/sandeshkatakam/
         
   - title: "Blog"
-    url: https://sandeshkatakam.github.io/My-Machine_learning-Blog/
+    url: https://sandeshkatakamblog.netlify.app/
     
   - title: "CV"
     url: https://drive.google.com/file/d/1Zmvjck1_IRCCaB9QeExIUsvii_fgkOGn/view?usp=sharing
