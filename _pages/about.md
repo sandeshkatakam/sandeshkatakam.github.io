@@ -49,7 +49,7 @@ Updates:
 
 </table></div>
 
-  </div>
+
 <!-- Updates
 
 <section id="updates" class="home-section ">
