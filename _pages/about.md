@@ -30,7 +30,8 @@ Research interests:
 >* Graph Neural Networks   
 
 
-<h4 id="updates">Updates</h4>
+Updates:
+------
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
@@ -49,12 +50,12 @@ Research interests:
 </table></div>
 
   </div>
-Updates
-------
+<!-- Updates
+
 <section id="updates" class="home-section ">
     <div class="container ">
     <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
-    <!-- <div class="col-xs-0 col-md-4 section-heading "></div> -->
+    <!-- <div class="col-xs-0 col-md-4 section-heading "></div> 
             <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
             <!-- CS 131 CA 
                 <div class="row">
@@ -104,7 +105,7 @@ Updates
                   <div class="col">Received the Research Excellence Award for my Bachelor Thesis</div>
                 </div> -->
                 <!-- IITB Graduation-->
-                <div class="row">
+<!--                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Mar 2023]</div>
                   <div class="col">Awarded Summer Research Fellowship by Indian Academy of Sciences to work under Dr. Sudarshan Iyengar HoD of CSE dept at IIT Ropar</div>
                 </div> 
@@ -113,10 +114,10 @@ Updates
                   <div class="col"> Started new position in the  Department of Physics, IISER Berhampur as Project student under Dr. Rahul Sharma . Will be working on denoising models for STM images(scanning tunneling microscopy)  </div>
                 </div>
                 <!-- Silver medal iGEM Grand Jamboree 2022 -->
-                <div class="row">
+<!--                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[<a href> Oct 2022 </a> ]</div>
                   <div class="col"> Our Team secured Silver Medal  in iGEM Grand Jamboree 2022 at Paris, France </div>
-                </div>
+                </div>  -->
                 <!-- GCPR acceptance 
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[Oct 2020]</div>
@@ -143,31 +144,31 @@ Updates
                   <div class="col"> Our paper on <a href="https://dl.acm.org/doi/abs/10.1145/3340531.3411886">Selecting Influential Features by a Learnable Content-Aware Linear Threshold Model</a> was accepted at CIKM 2020 </div>
                 </div> -->
                 <!-- iGEM Team IISER Berhampur-->
-               <div class="row">
+<!--                <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[<a href>June 2022 </a>]</div>
                   <div class="col"> Started position at iGEM Team IISER Berhampur  in the Modelling Team</div>
-                </div>
+                </div> -->
                 <!-- IIT Hyderabad Internship -->
-                <div class="row">
+<!--                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[<a href>May 2022 </a>]</div>
                   <div class="col"> Started Internship at IIT Hyderabad, Department of A.I. Under Prof. Srijit P.K. </div>
-                </div>
+                </div> -->
                 <!-- Department of Physics IISER Berhampur Internship -->
                 <!-- NeuroImaging and Brain Research Group -->
-                <div class="row">
+<!--                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[<a href>Mar 2022 </a> ]</div>
                   <div class="col"> Started position as Undergraduate Research Assistant in the NeuroImaging and Brain Research Group, IISER Berhampur under Dr. Vivek Tiwari </div>
-                </div>
+                </div> -->
                 <!-- Joined BS MS Dual Degree at IISER Berhampur -->
-                <div class="row">
+<!--                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[ <a href>Dec 2020</a>]</div>
                   <div class="col"> Admitted to BS-MS Dual Degree Programme at IISER Berhampur through JEE Advanced Channel
                   </div>
                 </div>
             </div>
       </div>
-      </div>
-</section>
+      </div> -->
+<!-- </section> --> 
 
 
 <!---
