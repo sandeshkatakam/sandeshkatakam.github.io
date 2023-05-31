@@ -27,8 +27,28 @@ Research interests:
 >* Unsupervised Learning and Generative Models: GANs, VAEs, Autogressive Models and Flow-Based models
 >* Continual Learning, Life-Long Learning and Multi-Task Reinforcement Learning(or continual RL)
 >* Sequence models and seq2seq models: Transformer Architectures
->* Graph Neural Networks 
+>* Graph Neural Networks   
 
+
+<h4 id="updates">Updates</h4>
+
+<div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
+<table>
+<col width="100px" />
+<col width="650px" />
+ 
+
+ <tr><td><b>Mar 2023:</b></td><td>Awarded Summer Research Fellowship by Indian Academy of Sciences to work under Dr. Sudarshan Iyengar HoD of CSE dept at IIT Ropar</td></tr>
+  <tr><td><b>Nov 2022:</b></td><td>Started new position in the  Department of Physics, IISER Berhampur as Project student under Dr. Rahul Sharma. I Will be working on denoising models for STM images(scanning tunneling microscopy) </td></tr>
+  <tr><td><b>Oct 2022:</b></td><td> Our Team secured Silver Medal  in iGEM Grand Jamboree 2022 at Paris, France</td></tr> 
+  <tr><td><b>June 2022:</b></td><td>Started position at iGEM Team IISER Berhampur  in the Modelling Team </td></tr>
+  <tr><td><b>May 2022:</b></td><td>Started Internship at IIT Hyderabad, Department of A.I. Under Prof. Srijit P.K. on Neural Differential Equations</td></tr>  
+  <tr><td><b>Mar 2022:</b></td><td>Started position as Undergraduate Research Assistant in the NeuroImaging and Brain Research Group, IISER Berhampur under Dr. Vivek Tiwari</td></tr>  
+  <tr><td><b>Dec 2020:</b></td><td>Admitted to BS-MS Dual Degree Programme at IISER Berhampur through JEE Advanced Channel</td></tr>
+
+</table></div>
+
+  </div>
 Updates
 ------
 <section id="updates" class="home-section ">
