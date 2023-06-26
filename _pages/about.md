@@ -21,13 +21,13 @@ Education:
 Research interests:
 ------  
 >* Neural Differential Equations and Scientific Machine Learning Methods
->* Bayesian Deep Learning Methods and in general Probabilistic Machine Learning
->* Deep Reinforcement learning and Optimal Control Problems
->* Deep Learning for Medical Imaging and Sequential Decision Making problems in Health Care 
->* Unsupervised Learning and Generative Models: GANs, VAEs, Autogressive Models and Flow-Based models
->* Continual Learning, Life-Long Learning and Multi-Task Reinforcement Learning(or continual RL)
->* Sequence models and seq2seq models: Transformer Architectures
->* Graph Neural Networks   
+>* Bayesian Deep Learning Methods and Probabilistic Machine Learning
+>* Deep Reinforcement learning and Self-Supervised Reinforcement Learning
+>* Deep Generative Models: GANs, VAEs, Normalizing Flows, Autoregressive Models(Transformers)
+>* Unsupervised and Self-Supervised Learning Models
+>* Automated Machine Learning(AutoML), Continual Learning and Meta-learning
+>* Foundation Models for Decision Making Problems
+
 
 
 Updates:
