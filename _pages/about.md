@@ -7,9 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
->  *"If you think you have reached the peak of a mountain, then find a bigger mountain"* 
+>  *"If you think you have reached the peak of a mountain, then find a bigger mountain"*
 
-I am an undergraduate student majoring in Mathematics. I am interested in Neural Differential Equations, Scientific Machine learning and Information Theory. I am currently working on the conjoining of Dynamical systems and Deep Learning. I am proficient in Julia, Python, C/C++, MATLAB and Bash(shell-scripting). I like working on projects at the interface of deep learning and differential equations. I am interested in developing Robust Machine Learning models and improving existing models towards better interpretability.
+### Hey, there! Welcome to my academic website!!
+
+I am an undergraduate student at IISER Berhampur, pursuing a major in mathematics. With a strong interest in the field of machine learning research, I am passionate about exploring the cutting-edge topics in this domain. My research interests primarily revolve around neural differential equations, model-based reinforcement learning and deep generative models.
+Having gained previous experience in deep learning for medical imaging and foundation models, I possess a solid foundation necessary for research in this domain. I am proficient with various deep learning frameworks such as JAX, PyTorch and Tensorflow and have strong programming knowledge across Python, Julia and C++.
+
+I am on the lookout for captivating research opportunities that lie at the dynamic intersection of Neural Differential Equations (NeuralDEs) and Model-based Reinforcement Learning (RL). What truly ignites my enthusiasm is the prospect of engaging in projects that drive the development of cutting-edge, sample  efficient model-based RL techniques for practical, real-world applications. Through the powerful combination of generative modeling and neural DEs, I am eager to dive deeper and implement hybrid techniques for constructing world models for model-based RL environments and work towards developing more robust and explainable reinforcement learning. I am also interested in working on meta-learning and other continual approaches for model-based RL.
+
+Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
 
 Education:
 ------- 
