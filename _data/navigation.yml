@@ -20,8 +20,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Portfolio"
-    url: https://sandeshkatakamblog.netlify.app/porfolio/
+  - title: "Software"
+    url: /software/
         
   - title: "Blog"
     url: https://sandeshkatakamblog.netlify.app/
