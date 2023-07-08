@@ -45,7 +45,7 @@ Updates:
 <col width="100px" />
 <col width="650px" />
  
-
+ <tr><td><b>July 2023:</b></td><td>Selected for 7th Summer School on Artificial Intelligence 2023 with focus on Computer Vision and Machine Learning by IIIT Hyderabad (In-Person Category)</td></tr>
  <tr><td><b>Mar 2023:</b></td><td>Awarded Summer Research Fellowship by Indian Academy of Sciences to work under Dr. Sudarshan Iyengar HoD of CSE dept at IIT Ropar</td></tr>
   <tr><td><b>Nov 2022:</b></td><td>Started new position in the  Department of Physics, IISER Berhampur as Project student under Dr. Rahul Sharma. I Will be working on denoising models for STM images(scanning tunneling microscopy) </td></tr>
   <tr><td><b>Oct 2022:</b></td><td> Our Team secured Silver Medal  in iGEM Grand Jamboree 2022 at Paris, France</td></tr> 
