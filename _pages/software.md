@@ -16,6 +16,11 @@ Implemented Generative Model Architectures:
 Generative Adversarial Networks, Variational AutoEncoders, Flow-Based Models, Energy-Based Models, NeuralSDEs etc.
 <br clear="right"/>
 
+## [SpinningUp RL (Julia Library)](https://github.com/sandeshkatakam/SpinningUp-RL-Julia)
+<img src="../images/spinninguprljulia.png" align="right" width="200px"/>
+Implementations Reinforcement Learning Algorithms in Julia inspired from the DeepRL learning resource "Spinning Up in DeepRL by OpenAI". Algorithms Implemented in the Julia package: Vanilla Policy Gradient (VPG), Trust Region Policy Optimization (TRPO), Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG), Twin Delayed DDPG (TD3), Soft Actor-Critic (SAC) 
+<br clear="right"/>
+
 ## [MLAlgorithmsKit: A Light-weight Machine Learning Library in Python](https://github.com/sandeshkatakam/ML-AlgorithmsKit)
 <img src="../images/machinelearning.png" align="right" width="200px"/>
 Implementation of standard ML Algorithms from scratch using Numpy and Pandas libraries.   
