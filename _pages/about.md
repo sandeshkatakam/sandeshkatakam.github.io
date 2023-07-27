@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Hey, there! Welcome to my academic website!!
+### Hey, there! So, you reached my website!!
 >  *"If you think you have reached the peak of a mountain, then find a bigger mountain"*
 
 I am an undergraduate mathematics major at IISER Berhampur, with a strong interest in the field of machine learning research. My research interests primarily revolve around neural differential equations, model-based reinforcement learning and deep generative models.
