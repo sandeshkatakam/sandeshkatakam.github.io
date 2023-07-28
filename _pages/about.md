@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### Hey, there! So, you reached my website!!
->  *"If you think you have reached the peak of a mountain, then find a bigger mountain"*
+>  *"Problems worthy of attack prove their worth by fighting back   -- Paul Erdos"*
 
 I am an undergraduate mathematics major at IISER Berhampur, with a strong interest in the field of machine learning research. My research interests primarily revolve around neural differential equations, model-based reinforcement learning and deep generative models.
 Having gained previous experience in deep learning for medical imaging and foundation models, I possess a solid foundation necessary for research in this domain. I am proficient with various deep learning frameworks such as JAX, PyTorch and Tensorflow and have strong programming knowledge across Python, Julia and C++.
