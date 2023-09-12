@@ -21,11 +21,11 @@ Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5
 Education:
 ------- 
 
-* __M.S.__ in Mathematics, IISER Berhampur, 2025(expected)
+* __M.S.__ in Mathematics and Computer Science(Minor), IISER Berhampur, 2025(expected)
   * Thesis: Yet to be declared.
-* __B.S.__ in Mathematics, Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
+* __B.S.__ in Mathematics and Computer Science(Minor), Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
 
-Research interests:
+Research Interests:
 ------  
 >* Neural Differential Equations and Scientific Machine Learning Methods
 >* Bayesian Deep Learning Methods and Probabilistic Machine Learning
