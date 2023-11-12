@@ -1,17 +1,16 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+title: "A Brief Survey on Fine-Tuning LLaMA 7B Model using parameter efficient fine-tuning methods"
+collection: Technical Report
+permalink: /publication/fine-tuning-llama-7b-report
 date: 2001-10-01
-venue: 'Journal 1'
-paperurl: '/files/pdf/Quantum_Information_Science_Notes.pdf'
+venue: 'TBD'
+paperurl: '/files/pdf/llama-fine-tuning-7b.pdf'
 link: ''
 citation: 'sample citation for testing the new layout'
 ---
 
 
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/pdf/llama-fine-tuning-7b.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
