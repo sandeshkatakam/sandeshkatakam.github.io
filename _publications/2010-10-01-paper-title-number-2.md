@@ -3,7 +3,7 @@ title: "JAXGenesis: Generative Models Library in JAX"
 collection: publications
 permalink: /publication/jax-genesis-model-library
 excerpt: 'TBD'
-date: TBD
+date: 2023-10-10
 venue: 'TBD'
 paperurl: 'http://sandeshkatakam.github.io/files/jax-genesis-paper.pdf'
 citation: 'TBD'
