@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 ### Hey, there! So, you reached my website!!
+![](../images/first-post-modified.png)
 >  *"Problems worthy of attack prove their worth by fighting back   -- Paul Erdos"*
 
-I am an undergraduate mathematics major at IISER Berhampur, with a strong interest in the field of machine learning research. My research interests primarily revolve around neural differential equations, model-based reinforcement learning and deep generative models.
-Having gained previous experience in deep learning for medical imaging and foundation models, I possess a solid foundation necessary for research in this domain. I am proficient with various deep learning frameworks such as JAX, PyTorch and Tensorflow and have strong programming knowledge across Python, Julia and C++.
+I am an undergraduate mathematics major(with a CS Minor) at IISER Berhampur, with a strong interest in the field of machine learning research. My research interests primarily revolve around neural differential equations, model-based reinforcement learning and deep generative models. Apart from my usual research interests, I have a strong interest in Machine Learning Systems. I have a keen interest in developing software for machine learning research. 
 
-I am on the lookout for captivating research opportunities that lie at the dynamic intersection of Neural Differential Equations (NeuralDEs) and Model-based Reinforcement Learning (RL). What truly ignites my enthusiasm is the prospect of engaging in projects that drive the development of cutting-edge, sample  efficient model-based RL techniques for practical, real-world applications. Through the powerful combination of generative modeling and neural DEs, I am eager to dive deeper and implement hybrid techniques for constructing world models for model-based RL environments and work towards developing more robust and explainable reinforcement learning. I am also interested in working on meta-learning and other continual approaches for model-based RL.
+I am on the lookout for captivating research opportunities that lie at the dynamic intersection of Neural Differential Equations (NeuralDEs) and Model-based Reinforcement Learning (RL). What truly ignites my enthusiasm is the prospect of engaging in projects that drive the development of cutting-edge, sample  efficient model-based RL techniques for practical, real-world applications. Through the powerful combination of generative modeling and neural DEs, I am eager to dive deeper and implement hybrid techniques for constructing world models for model-based RL environments and work towards developing more robust and explainable reinforcement learning.
 
 Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
-
+  
 Education:
 ------- 
 
@@ -25,16 +25,21 @@ Education:
   * Thesis: Yet to be declared.
 * __B.S.__ in Mathematics and Computer Science(Minor), Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
 
+  
+Previous Research Experience:([CV](https://drive.google.com/file/d/1vgcgE_7_LIrPOqJt6KHTVs6lZvmy36sH/view))
+------- 
+* **REint AI Deep Learning Intern(2023):** Worked on Computer Vision based Deep learning models for Energy generation forecasting using spatio-temporal data
+* **Indian Academy of Sciences Summer Research Fellow(2023):** Employed parameter-efficient fine-tuning techniques to refine LLaMA Foundation Models at IIT Ropar.
+* **Summer Research Intern (2022):** Investigated Neural Differential Equations, particularly Neural PDE models, at IIT Hyderabad.
+* **NeuroImaging and Brain Research Lab, IISER Berhampur(2021):** worked on brain tumor segmentation model and other deep learning models for Medical Imaging
+
 Research Interests:
 ------  
->* Neural Differential Equations and Scientific Machine Learning Methods
->* Bayesian Deep Learning Methods and Probabilistic Machine Learning
->* Deep Reinforcement learning and Self-Supervised Reinforcement Learning
->* Deep Generative Models: GANs, VAEs, Normalizing Flows, Autoregressive Models(Transformers)
->* Unsupervised and Self-Supervised Learning Models
->* Automated Machine Learning(AutoML), Continual Learning and Meta-learning
->* Foundation Models for Decision Making Problems
-
+>* Reinforcement learning and Sequential Decision-Making
+>* Neural Differential Equations/Continuous-Time Neural Networks
+>* Self-Supervised learning
+>* Deep Generative Models and Unsupervised Learning
+>* Foundation Models for Decision Making 
 
 
 Updates:
