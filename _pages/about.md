@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Hey, there! So, you reached my website!!
+## Hey, there! So, you reached my website!!
 ![](../images/first-post-modified.png)
 >  *"Problems worthy of attack prove their worth by fighting back   -- Paul Erdos"*
 
-I am an undergraduate mathematics major(with a CS Minor) at IISER Berhampur, with a strong interest in the field of machine learning research. My research interests primarily revolve around neural differential equations, model-based reinforcement learning and deep generative models. Apart from my usual research interests, I have a strong interest in Machine Learning Systems. I have a keen interest in developing software for machine learning research. 
+I am an undergraduate mathematics major(with a CS Minor) at IISER Berhampur, with a strong interest in the field of machine learning research. My research interests primarily revolve around neural differential equations, model-based reinforcement learning, and deep generative models. Apart from my usual research interests, I have a strong interest in Machine Learning Systems. I have a keen interest in developing software for machine learning research. 
 
-I am on the lookout for captivating research opportunities that lie at the dynamic intersection of Neural Differential Equations (NeuralDEs) and Model-based Reinforcement Learning (RL). What truly ignites my enthusiasm is the prospect of engaging in projects that drive the development of cutting-edge, sample  efficient model-based RL techniques for practical, real-world applications. Through the powerful combination of generative modeling and neural DEs, I am eager to dive deeper and implement hybrid techniques for constructing world models for model-based RL environments and work towards developing more robust and explainable reinforcement learning.
+I am on the lookout for captivating research opportunities that lie at the dynamic intersection of Neural Differential Equations (NeuralDEs) and Model-based Reinforcement Learning (RL). What truly ignites my enthusiasm is the prospect of engaging in projects that drive the development of cutting-edge, sample-efficient model-based RL techniques for practical, real-world applications. Through the powerful combination of generative modeling and neural DEs, I am eager to dive deeper and implement hybrid techniques for constructing world models for model-based RL environments and work towards developing more robust and explainable reinforcement learning.
 
 Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
@@ -28,10 +28,10 @@ Education:
   
 Previous Research Experience:([CV](https://drive.google.com/file/d/1vgcgE_7_LIrPOqJt6KHTVs6lZvmy36sH/view))
 ------- 
-* **REint AI Deep Learning Intern(2023):** Worked on Computer Vision based Deep learning models for Energy generation forecasting using spatio-temporal data
+* **REint AI Deep Learning Intern(2023):** Worked on Computer Vision Deep learning models for Energy generation forecasting using spatiotemporal data
 * **Indian Academy of Sciences Summer Research Fellow(2023):** Employed parameter-efficient fine-tuning techniques to refine LLaMA Foundation Models at IIT Ropar.
 * **Summer Research Intern (2022):** Investigated Neural Differential Equations, particularly Neural PDE models, at IIT Hyderabad.
-* **NeuroImaging and Brain Research Lab, IISER Berhampur(2021):** worked on brain tumor segmentation model and other deep learning models for Medical Imaging
+* **NeuroImaging and Brain Research Lab, IISER Berhampur(2022):** worked on brain tumor segmentation models and other deep learning models for Medical Imaging
 
 Research Interests:
 ------  
