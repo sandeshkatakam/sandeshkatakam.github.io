@@ -26,7 +26,7 @@ Education:
 * __B.S.__ in Mathematics and Computer Science(Minor), Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
 
   
-Previous Research Experience:([CV](https://drive.google.com/file/d/1vgcgE_7_LIrPOqJt6KHTVs6lZvmy36sH/view))
+Research and Engineering Experience:([CV](https://drive.google.com/file/d/1vgcgE_7_LIrPOqJt6KHTVs6lZvmy36sH/view))
 ------- 
 * **REint AI Deep Learning Intern(2023):** Worked on Computer Vision Deep learning models for Energy generation forecasting using spatiotemporal data
 * **Indian Academy of Sciences Summer Research Fellow(2023):** Employed parameter-efficient fine-tuning techniques to refine LLaMA Foundation Models at IIT Ropar.
@@ -36,10 +36,10 @@ Previous Research Experience:([CV](https://drive.google.com/file/d/1vgcgE_7_LIrP
 Research Interests:
 ------  
 >* Reinforcement learning and Sequential Decision-Making
->* Neural Differential Equations/Continuous-Time Neural Networks
->* Self-Supervised learning
->* Deep Generative Models and Unsupervised Learning
+>* Neural Differential Equations/Continuous-Time Deep Learning
+>* Unsupervised Learning and Self-Supervised learning
 >* Foundation Models for Decision Making 
+>* Machine Learning Systems (ML for Systems and Systems for ML)
 
 
 Updates:
@@ -49,6 +49,9 @@ Updates:
 <table>
 <col width="100px" />
 <col width="650px" />
+ <tr><td><b>March 2024:</b></td><td>Started Building CaaS (Compute as a Service) Startup in Stealth Mode </td></tr>
+ <tr><td><b>February 2024:</b></td><td>Selected for Oxford Machine Learning Summer School 2024 for the tracks MLx Representation Learning and MLx Health and Bio to be held at Oxford Mathematical Institute UK</td></tr>
+ <tr><td><b>January 2024:</b></td><td>Started as Masters Thesis Student at Bayesian Reasoning and Inference Group at Department of AI, IIT Hyderabad</td></tr>
  <tr><td><b>August 2023:</b></td><td>Worked at REint AI (Startup) as a Deep Learning Intern</td></tr>
  <tr><td><b>July 2023:</b></td><td>Selected for 7th Summer School on Artificial Intelligence 2023 with focus on Computer Vision and Machine Learning by IIIT Hyderabad (In-Person Category)</td></tr>
  <tr><td><b>Mar 2023:</b></td><td>Awarded Summer Research Fellowship by Indian Academy of Sciences to work under Dr. Sudarshan Iyengar HoD of CSE dept at IIT Ropar</td></tr>
