@@ -26,7 +26,7 @@ Education:
 * __B.S.__ in Mathematics and Computer Science(Minor), Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
 
   
-Research and Engineering Experience:([CV](https://drive.google.com/file/d/1vgcgE_7_LIrPOqJt6KHTVs6lZvmy36sH/view))
+Research and Engineering Experience:([CV](https://www.dropbox.com/scl/fi/bjg62ld1123zh0lu2x9o7/Sandesh_Katakam_CV__Website.pdf?rlkey=ooho6sjeq9svj1vfmzgf4n4qa&st=4fr0f6gp&dl=0))
 ------- 
 * **REint AI Deep Learning Intern(2023):** Worked on Computer Vision Deep learning models for Energy generation forecasting using spatiotemporal data
 * **Indian Academy of Sciences Summer Research Fellow(2023):** Employed parameter-efficient fine-tuning techniques to refine LLaMA Foundation Models at IIT Ropar.
