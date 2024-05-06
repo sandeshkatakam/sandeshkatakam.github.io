@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hey, there! So, you reached my website!!
+
 ![](../images/first-post-modified.png)
 >  *"Problems worthy of attack prove their worth by fighting back   -- Paul Erdos"*
 
