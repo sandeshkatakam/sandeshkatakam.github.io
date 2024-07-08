@@ -19,8 +19,7 @@ I am an Undergraduate Student Majoring in Mathematics with a Minor in Computer S
 
 I am on the lookout for possible research opportunities in the field of Deep Reinforcement learning. Feel free to connect with me to discuss **potential collaborations**, **research opportunities** and **Cool Open Source Project Ideas**.
 
-Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
+Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/) or **Drop an Email**
   
 Education:
 ------- 
