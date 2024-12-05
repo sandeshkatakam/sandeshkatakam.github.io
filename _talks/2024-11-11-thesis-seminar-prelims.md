@@ -7,8 +7,8 @@ venue: "IISER Berhampur"
 date: 2024-11-11
 location: "Berhampur, Odisha"
 ---
-
-## Mid-Term Master's Thesis Seminar Slides
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.overleaf.com/read/csstddjzzzsp)  
+<a href='https://www.dropbox.com/scl/fi/phanfjp0wfyphnqm9prcf/Mid_Term_Thesis_Presentation_Progress__FinalPDF.pdf?rlkey=w1fkqzzopgwx460mskpsngr6p&st=qod14kzk&dl=0'>Download Slides here</a>
 
 Mid-Term Thesis seminar for Master's Thesis Project: Non-stationary MDPs and Continual RL delivered to the MS Thesis Committee as partial requirement towards MS Thesis Project work component of BS-MS Dual Degree at IISER Berhampur
 
@@ -19,4 +19,4 @@ Mid-Term Thesis seminar for Master's Thesis Project: Non-stationary MDPs and Con
 * **Thesis Title:** Non-Stationary Markov Decision Processes and Continual RL Algorithms  
 
     
-<iframe src="https://github.com/sandeshkatakam/sandeshkatakam.github.io/blob/master/files/Mid_Term_Thesis_Presentation_Progress__FinalPDF.pdf" width="960px" height="720px"></iframe>
+<embed src="https://sandeshkatakam.github.io/files/Mid_Term_Thesis_Presentation_Progress__FinalPDF.pdf" type="application/pdf" width="100%" />  
