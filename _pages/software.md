@@ -34,7 +34,7 @@ redirect_from:
   <p>
     <strong>OmnixRL</strong>: A comprehensive reinforcement learning library implemented in JAX, inspired by OpenAI's Spinning Up. This library provides a clean, modular implementation of popular RL algorithms with a focus on research experimentation and serves as a research framework for developing novel RL algorithms.
     <br/><br/>
-    Implementations of Reinforcement Learning algorithms in the JAX framework, inspired by the DeepRL learning resource "Spinning Up in DeepRL by OpenAI." Algorithms implemented in the library include:
+    Implemented Deep Reinforcement Learning Algorithms:
     <ul>
       <li>Vanilla Policy Gradient (VPG)</li>
       <li>Trust Region Policy Optimization (TRPO)</li>
