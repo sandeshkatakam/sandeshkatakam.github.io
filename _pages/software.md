@@ -30,7 +30,7 @@ redirect_from:
 ## [OmnixRL: A JAX Library for Deep RL](https://github.com/sandeshkatakam/SpinningUp-RL-JAX)
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <img src="../images/OmnixRL_logo.png" alt="OmnixRL Logo" style="max-width: 100px; height: auto; margin-right: 15px;"/>
+  <img src="../images/OmnixRL_logo.png" alt="OmnixRL Logo" style="max-width: 200px; height: auto; margin-right: 15px;"/>
   <p>
     <strong>OmnixRL</strong>: A comprehensive reinforcement learning library implemented in JAX, inspired by OpenAI's Spinning Up. This library provides a clean, modular implementation of popular RL algorithms with a focus on research experimentation and serves as a research framework for developing novel RL algorithms.
     <br/><br/>
