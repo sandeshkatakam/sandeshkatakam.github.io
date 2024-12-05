@@ -54,7 +54,7 @@ Updates:
 <col width="100px" />
 <col width="650px" />
 <!--  <tr><td><b>March 2024:</b></td><td>Started Building CaaS (Compute as a Service) Startup in Stealth Mode </td></tr> -->
-  <tr><td><b>February 2024:</b></td><td>Started position as Undergraduate Teaching Assistant(TA) at IISER Berhampur for CDS 101: Introduction to Programming with Python under Dr. Anabik Pal</td></tr>
+  <tr><td><b>September 2024:</b></td><td>Started position as Undergraduate Teaching Assistant(TA) at IISER Berhampur for CDS 101: Introduction to Programming with Python (Fall Semester 2024 Sep-Dec) under Dr. Anabik Pal</td></tr>
  <tr><td><b>February 2024:</b></td><td>Selected for Oxford Machine Learning Summer School 2024 for the tracks MLx Representation Learning and MLx Health and Bio to be held at Oxford Mathematical Institute UK</td></tr>
  <tr><td><b>January 2024:</b></td><td>Started as Masters Thesis Student at Bayesian Reasoning and Inference Group at Department of AI, IIT Hyderabad</td></tr>
  <tr><td><b>August 2023:</b></td><td>Worked at REint AI (Startup) as a Deep Learning Intern</td></tr>
