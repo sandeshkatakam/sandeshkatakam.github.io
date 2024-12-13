@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![](../images/first-post-modified.png)
->  *"Problems worthy of attack prove their worth by fighting back   -- Paul Erdos"*
+
 
 I am an Undergraduate Student Majoring in Mathematics with a Minor in Computer Science at [IISER Berhampur](https://www.iiserbpr.ac.in/).  I am currently doing my Master's Thesis Research work at IIT Hyderabad with [Dr.Srijith P.K.](https://sites.google.com/site/pksrijith/home) at the intersection of Reinforcement Learning and Deep Generative Models.
 
