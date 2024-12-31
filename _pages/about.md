@@ -25,22 +25,15 @@ Education:
 ------- 
 
 * __M.S.__ in Mathematics and Computer Science(Minor), IISER Berhampur, 2025(expected)
-  * Thesis: Yet to be declared.
+  * Thesis: Non-Stationary Markov Decision Processes and Continual Reinforcement Learning Algorithms
+  * Advisor: [Dr.Srijith P.K., Department of AI, IIT Hyderabad](https://sites.google.com/site/pksrijith/home)
 * __B.S.__ in Mathematics and Computer Science(Minor), Indian Institute of Science Education and Research (IISER) Berhampur, INDIA
 
   
-Research and Engineering Experience:([CV](https://drive.google.com/file/d/1NFdTyjDBN4OPU4ZAvy_oj0eYtoWQbax3/view?usp=sharing))
-------- 
-* **Master's Thesis Student(2024):** Thesis Title: **TBD**
-* **REint AI Deep Learning Intern(2023):** Worked on Computer Vision Deep learning models for Energy generation forecasting using spatiotemporal data
-* **Indian Academy of Sciences Summer Research Fellow(2023):** Employed parameter-efficient fine-tuning techniques to refine LLaMA Foundation Models at IIT Ropar.
-* **Summer Research Intern (2022):** Investigated Neural Differential Equations, particularly Neural PDE models, at IIT Hyderabad.
-* **NeuroImaging and Brain Research Lab, IISER Berhampur(2022):** worked on brain tumor segmentation models and other deep learning models for Medical Imaging
 
 Research Interests:
 ------  
 >* Reinforcement learning and Sequential Decision-Making
->* Neural Differential Equations/Continuous-Time Deep Learning
 >* Unsupervised Learning and Self-Supervised learning
 >* Foundation Models for Decision Making 
 >* Machine Learning Systems (ML for Systems and Systems for ML)
@@ -54,6 +47,7 @@ Updates:
 <col width="100px" />
 <col width="650px" />
 <!--  <tr><td><b>March 2024:</b></td><td>Started Building CaaS (Compute as a Service) Startup in Stealth Mode </td></tr> -->
+  <tr><td><b>December 2024:</b></td><td>Selected as an AI Fellow (one of 10 fellows out of 350+ applicants worldwide) to be a part of the 2-month immersive Pi School of AI program(Rome, Italy) on a 100% scholarship</td></tr>
   <tr><td><b>September 2024:</b></td><td>Started position as Undergraduate Teaching Assistant(TA) at IISER Berhampur for CDS 101: Introduction to Programming with Python (Fall Semester 2024 Sep-Dec) under Dr. Anabik Pal</td></tr>
  <tr><td><b>February 2024:</b></td><td>Selected for Oxford Machine Learning Summer School 2024 for the tracks MLx Representation Learning and MLx Health and Bio to be held at Oxford Mathematical Institute UK</td></tr>
  <tr><td><b>January 2024:</b></td><td>Started as Masters Thesis Student at Bayesian Reasoning and Inference Group at Department of AI, IIT Hyderabad</td></tr>
