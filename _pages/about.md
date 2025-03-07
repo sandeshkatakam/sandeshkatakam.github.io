@@ -34,8 +34,8 @@ Education:
 Research Interests:
 ------  
 >* Reinforcement learning and Sequential Decision-Making
->* Unsupervised Learning and Self-Supervised learning
->* Foundation Models for Decision Making 
+>* Deep Generative Models
+>* Statistical Learning Theory
 >* Machine Learning Systems (ML for Systems and Systems for ML)
 
 
