@@ -13,11 +13,11 @@ redirect_from:
 
 I am an Undergraduate Student Majoring in Mathematics with a Minor in Computer Science at [IISER Berhampur](https://www.iiserbpr.ac.in/).  I am currently doing my Master's Thesis Research work at IIT Hyderabad with [Dr.Srijith P.K.](https://sites.google.com/site/pksrijith/home) at the intersection of Reinforcement Learning and Deep Generative Models.
 
-**Research,** I am interested in working on **Zero-shot Unsupervised Reinforcement Learning** models that can adapt to downstream tasks with the prospect of developing **Foundation Models for Decision Making Systems**.
+**Research,** I am broadly interested in **Reinforcement Learning**, particularly in developing **unsupervised and meta reinforcement learning algorithms** with strong theoretical guarantees, including **sample complexity, regret analysis and convergence properties**. I am especially interested in **Foundations of Reinforcement Learning**, aiming to understand RL algorithms from a mathematical perspective to develop **provably efficient** and **computationally tractable methods**. Currently, I am working on **continual reinforcement learning** algorithms with improved regret bounds and sample complexities, ensuring better adaptability in non-stationary environments.
 
-**Outside Research,** Alongside my primary research work, I have a particular interest in **Machine Learning Systems(MLSys)** with a focus on developing efficient deep learning models for the Edge Devices and builing better compute infrastructure for ML Model Training. **I love Open Source** and I spend time actively contributing to open source projects of my own and others (some of them are mentioned on the software page)
+**Outside Research,** I have a particular interest in **Machine Learning Systems(MLSys)** with a focus on developing **efficient inference** methods and **distributed training** for large deep learning models. I love Open Source and I spend time actively contributing to open source projects of my own and others (some of them are mentioned on the software page)
 
-I am on the lookout for possible research opportunities in the field of Deep Reinforcement learning. Feel free to connect with me to discuss **potential collaborations**, **research opportunities** and **Cool Open Source Project Ideas**.
+I am on the lookout for possible research opportunities in the field of Reinforcement learning and MLSys. Feel free to connect with me to discuss **potential collaborations**, **research opportunities** and **Cool Open Source Project Ideas**.
 
 Reach out to me on: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/) or **Drop an Email**
   
