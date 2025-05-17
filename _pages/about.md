@@ -49,7 +49,7 @@ Updates:
 <col width="100px" />
 <col width="650px" />
 <!--  <tr><td><b>March 2024:</b></td><td>Started Building CaaS (Compute as a Service) Startup in Stealth Mode </td></tr> -->
-  <tr><td><b>May 2024:</b></td><td>Submitted and defended Master's Thesis titled: "Non-Stationary Markov Decision Processes and Continual Reinforcement Learning Algorithms": <a href="https://www.dropbox.com/scl/fi/it6oqxw2gapwsdf81ypyn/MS_Thesis_Final_Submission_Katakam_Sandesh_20062-signed.pdf?rlkey=rz7eetkbfe4qpk29bfifim8e5&st=n9cksfbn&dl=0">Thesis PDF</a></td></tr>
+  <tr><td><b>May 2025:</b></td><td>Submitted and defended Master's Thesis titled: "Non-Stationary Markov Decision Processes and Continual Reinforcement Learning Algorithms": <a href="https://www.dropbox.com/scl/fi/it6oqxw2gapwsdf81ypyn/MS_Thesis_Final_Submission_Katakam_Sandesh_20062-signed.pdf?rlkey=rz7eetkbfe4qpk29bfifim8e5&st=n9cksfbn&dl=0">Thesis PDF</a></td></tr>
   <tr><td><b>December 2024:</b></td><td>Selected as an AI Fellow (one of 10 fellows out of 350+ applicants worldwide) to be a part of the 2-month immersive Pi School of AI program(Rome, Italy) on a 100% scholarship</td></tr>
   <tr><td><b>September 2024:</b></td><td>Started position as Undergraduate Teaching Assistant(TA) at IISER Berhampur for CDS 101: Introduction to Programming with Python (Fall Semester 2024 Sep-Dec) under Dr. Anabik Pal</td></tr>
  <tr><td><b>February 2024:</b></td><td>Selected for Oxford Machine Learning Summer School 2024 for the tracks MLx Representation Learning and MLx Health and Bio to be held at Oxford Mathematical Institute UK</td></tr>
