@@ -21,8 +21,8 @@ main:
   # - title: "Research"
   #   url: /research/
     
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
         
   # - title: "Blog"
   #   url: https://sandeshkatakamblog.netlify.app/
