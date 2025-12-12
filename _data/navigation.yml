@@ -23,6 +23,9 @@ main:
     
   # - title: "Software"
   #   url: /software/
+
+  - title: "Interesting Stuff"
+    url: /stuff/
         
   # - title: "Blog"
   #   url: https://sandeshkatakamblog.netlify.app/
