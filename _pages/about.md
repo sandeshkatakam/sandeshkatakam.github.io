@@ -52,7 +52,7 @@ Updates:
 <col width="100px" />
 <col width="650px" />
 <!--  <tr><td><b>March 2024:</b></td><td>Started Building CaaS (Compute as a Service) Startup in Stealth Mode </td></tr> -->
-  <tr><td><b>February 2026:</b></td><td>Started a new position as a Research Associate supported by Fujitsu AI Labs at <a href="https://atmlr-lab.github.io/index.html">Applied Theory for Machine Learning (ATMLR) Lab</a> under <a href="https://people.iith.ac.in/saketha/">Dr. J Saketha Nath (Associate Professor, Dept. of CSE, IIT Hyderabad)</a> </td></tr>
+  <tr><td><b>February 2026:</b></td><td>Started a new position as a Research Associate for the project "Constrained Sampling" supported by grant from Fujitsu AI Labs at <a href="https://atmlr-lab.github.io/index.html">Applied Theory for Machine Learning (ATMLR) Lab</a> under <a href="https://people.iith.ac.in/saketha/">Dr. J Saketha Nath (Associate Professor, Dept. of CSE, IIT Hyderabad)</a> </td></tr>
   <tr><td><b>October 2025:</b></td><td>Started as Teaching Assistant for the Graduate and Advanced Undergraduate course: CS5500: Reinforcement Learning at IIT Hyderabad</td></tr>
   <tr><td><b>August 2025:</b></td><td>Started as Teaching Assistant for the Graduate and Advanced Undergraduate course: <a href="https://people.iith.ac.in/saketha/teaching/cs5590.html">CS 5590: Foundations of Machine Learning Course (Jul'25 - Nov'25)</a> at IIT Hyderabad</td></tr>
   <tr><td><b>May 2025:</b></td><td>Started a new position as a Researh Assistant at the <a href="https://atmlr-lab.github.io/index.html">Applied Theory for Machine Learning (ATMLR) Lab</a> under <a href="https://people.iith.ac.in/saketha/">Dr. J Saketha Nath (Associate Professor, IIT Hyderabad) supported by grant from Microsoft Research India</a> </td></tr>
