@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-> A little collection of things I find interesting, thought-provoking, or simply too good to lose. Mostly research, mathematics, ideas, and other intellectual rabbit holes.
+> A little collection of things I find interesting, amusing, or simply too good to lose. Research, mathematics, historical anecdotes, funny stories, and pretty much anything else that catches my attention.
 >
 > Frankly speaking, I started this page to save stuff for myself :)) But I figured it might be nice to share it too. Perhaps you'll find something interesting here as well!
 
