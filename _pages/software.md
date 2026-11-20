@@ -21,16 +21,18 @@ redirect_from:
 
 ## Blogs & Some Very Smart People ...
 
-Some blogs I keep coming back to, and people whose writing I find particularly interesting.
-
+Some blogs I revisit when I need a little reminder of what research is about
+- [The Anarchist Abstractionist — Who was Alexander Grothendieck?](https://www.privatdozent.co/p/the-anarchist-abstractionist-who-995)
 - [Terence Tao's Blog](https://terrytao.wordpress.com/)
 - [Francis Bach's Machine Learning Research Blog](https://francisbach.com/)
-- [Off the Convex Path](https://www.offconvex.org/) — Sanjeev Arora
+
 
 ## Things to Watch When You Should Be Working ...
 
 - [How to Write Mathematics Badly](https://www.youtube.com/watch?v=wsQWLaUn7jo&list=PLP68ichU82_qYBPFhwN9tqs5J0s3o6hNJ&index=7) — Jean-Pierre Serre. *Hilarious lecture, if you can get past the audio issues :))*
+- [Paul Erdős: The Man Who Loved Only Numbers (1998)](https://www.youtube.com/watch?v=9634A0iBw7w)
 
+  
 ## Mathematics & Other Intellectual Rabbit Holes ...
 
 *Things that make you think, question what you know, or appreciate an idea from a completely different perspective.*
