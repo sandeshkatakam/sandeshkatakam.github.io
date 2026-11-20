@@ -1,14 +1,13 @@
 ---
 permalink: /stuff/
-title: "Interesting Stuff!!"
-excerpt: "Some Interesting Stuff I found on the Internet"
+title: "Things I Find Interesting!"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-# Things I Find Interesting
 
 > A little collection of things I find interesting, thought-provoking, or simply too good to lose. Mostly research, mathematics, ideas, and other intellectual rabbit holes.
 >
