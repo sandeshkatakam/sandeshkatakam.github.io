@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Sandesh Katakam"
 title_separator          : "-"
 name                     : &name "Sandesh Katakam"
-description              : &description "Research Assistant at IIT Hyderabad"
+description              : &description "Research Assistant at IIT Bombay"
 url                      : https://sandeshkatakam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sandeshkatakam.github.io"
@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Sandesh Katakam"
   avatar           : "sandesh_professional_dp_cropped.png"
-  bio              : "Research Assistant at IIT Hyderabad INDIA"
-  location         : "Hyderabad INDIA"
+  bio              : "Research Assistant at IIT Bombay INDIA"
+  location         : "Mumbai INDIA"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
