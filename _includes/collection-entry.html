@@ -1,0 +1,100 @@
+{% assign entry = include.post %}
+{% assign entry_title = entry.title | markdownify | remove: '<p>' | remove: '</p>' %}
+{% assign entry_link = entry.link | default: '' | strip %}
+{% assign entry_paperurl = entry.paperurl | default: '' | strip %}
+{% assign entry_code = entry.code | default: '' | strip %}
+{% assign entry_github = entry.github | default: '' | strip %}
+{% assign entry_huggingface = entry.huggingface | default: '' | strip %}
+{% assign entry_authors = entry.authors | default: '' | strip %}
+{% assign entry_type = entry.type | default: '' | strip %}
+{% assign entry_venue = entry.venue | default: '' | strip %}
+{% assign entry_location = entry.location | default: '' | strip %}
+{% assign entry_slidesurl = entry.slidesurl | default: '' | strip %}
+{% assign entry_date = entry.date | default: '' | append: '' | strip %}
+{% if entry.hide_date %}{% assign entry_date = '' %}{% endif %}
+{% assign entry_abstract = entry.abstract | default: '' | strip %}
+{% assign entry_citation = entry.citation | default: '' | strip %}
+{% assign entry_excerpt = entry.excerpt | default: '' | markdownify | strip_html | normalize_whitespace | strip %}
+{% assign thumbnail = entry.header.teaser | default: '' | strip %}
+{% capture local_url %}{% include collection-entry-url.html url=entry.url %}{% endcapture %}
+{% assign entry_url = local_url %}
+{% if entry_link != '' %}
+  {% capture entry_url %}{% include collection-entry-url.html url=entry_link %}{% endcapture %}
+{% endif %}
+
+<article class="collection-entry collection-entry--{{ include.kind }}{% if include.kind == 'talk' %} collection-entry--note{% endif %}{% if thumbnail != '' or include.kind == 'publication' %} collection-entry--with-thumbnail{% endif %}">
+  {% if thumbnail != '' %}
+    {% assign thumbnail_start = thumbnail | slice: 0, 1 %}
+    {% unless thumbnail contains '://' or thumbnail_start == '/' %}
+      {% assign thumbnail = thumbnail | prepend: '/images/' %}
+    {% endunless %}
+    {% capture thumbnail_url %}{% include collection-entry-url.html url=thumbnail %}{% endcapture %}
+    <img class="collection-entry__thumbnail" src="{{ thumbnail_url | escape }}" alt="" loading="lazy" width="112" height="80">
+  {% elsif include.kind == 'publication' %}
+    <div class="collection-entry__thumbnail collection-entry__thumbnail--placeholder" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.5" focusable="false">
+        <rect x="3" y="3" width="18" height="18" rx="2"/>
+        <circle cx="8" cy="8" r="1.5"/>
+        <path d="m3 17 5-5 4 4 3-3 6 6"/>
+      </svg>
+      <span>Publication image</span>
+    </div>
+  {% endif %}
+
+  <div class="collection-entry__body">
+    <h2 class="collection-entry__title"><a href="{{ entry_url | escape }}">{{ entry_title }}</a></h2>
+
+    {% if include.kind == 'publication' %}
+      {% if entry_authors != '' %}<p class="collection-entry__authors">{{ entry_authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+      {% if entry_type != '' or entry_venue != '' or entry_date != '' %}
+        <p class="collection-entry__meta">
+          {% if entry_type != '' %}<span>{{ entry_type | escape }}</span>{% endif %}
+          {% if entry_venue != '' %}<span>{{ entry_venue | escape }}</span>{% endif %}
+          {% if entry_date != '' %}<time datetime="{{ entry_date | date_to_xmlschema }}">{{ entry_date | date: '%Y' }}</time>{% endif %}
+        </p>
+      {% endif %}
+
+      {% if entry_link != '' or entry_paperurl != '' or entry_code != '' or entry_github != '' or entry_huggingface != '' %}
+        <div class="collection-entry__links" role="group" aria-label="Publication resources">
+          {% assign resource_fields = 'link,paperurl,code,github,huggingface' | split: ',' %}
+          {% for field in resource_fields %}
+            {% assign resource = entry[field] | default: '' | strip %}
+            {% if resource != '' %}
+              {% capture resource_href %}{% include collection-entry-url.html url=resource %}{% endcapture %}
+              {% case field %}
+                {% when 'link' %}<a href="{{ resource_href | escape }}"><i class="fas fa-link" aria-hidden="true"></i> Paper</a>
+                {% when 'paperurl' %}<a href="{{ resource_href | escape }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
+                {% when 'code' %}<a href="{{ resource_href | escape }}"><i class="fas fa-code" aria-hidden="true"></i> Code</a>
+                {% when 'huggingface' %}<a href="{{ resource_href | escape }}"><i class="fas fa-link" aria-hidden="true"></i> Hugging Face</a>
+                {% when 'github' %}<a href="{{ resource_href | escape }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+              {% endcase %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      {% if entry_abstract != '' %}
+        <details class="collection-entry__details"><summary>Abstract</summary><div>{{ entry_abstract | markdownify }}</div></details>
+      {% endif %}
+      {% if entry_citation != '' %}
+        <details class="collection-entry__details"><summary>Citation</summary><div>{{ entry_citation | markdownify }}</div></details>
+      {% endif %}
+    {% else %}
+      {% if include.kind == 'talk' %}
+        {% if entry_date != '' or entry_type != '' or entry_venue != '' or entry_location != '' %}
+          <p class="collection-entry__meta">
+            {% if entry_date != '' %}<time datetime="{{ entry_date | date_to_xmlschema }}">{{ entry_date | date: '%b %Y' }}</time>{% endif %}
+            {% if entry_type != '' %}<span>{{ entry_type | escape }}</span>{% endif %}
+            {% if entry_venue != '' %}<span>{{ entry_venue | escape }}</span>{% endif %}
+            {% if entry_location != '' %}<span>{{ entry_location | escape }}</span>{% endif %}
+          </p>
+        {% endif %}
+      {% elsif entry_date != '' %}<p class="collection-entry__meta"><time datetime="{{ entry_date | date_to_xmlschema }}">{{ entry_date | date: '%b %Y' }}</time></p>{% endif %}
+      {% if entry_excerpt != '' %}<p class="collection-entry__excerpt">{{ entry_excerpt | truncatewords: 36 | escape_once }}</p>{% endif %}
+      <a class="collection-entry__read" href="{{ local_url | escape }}">{% if include.kind == 'talk' %}Read presentation{% else %}Read note{% endif %} <span aria-hidden="true">&rarr;</span><span class="sr-only">: {{ entry.title | strip_html | escape }}</span></a>
+      {% if include.kind == 'talk' and entry_slidesurl != '' %}
+        {% capture slides_href %}{% include collection-entry-url.html url=entry_slidesurl %}{% endcapture %}
+        <div class="collection-entry__links"><a class="collection-entry__slides" href="{{ slides_href | escape }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> Slides (PDF)</a></div>
+      {% endif %}
+    {% endif %}
+  </div>
+</article>

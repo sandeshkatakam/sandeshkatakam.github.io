@@ -1,0 +1,183 @@
+/* Theme control stays outside greedy-nav so it never enters the overflow menu. */
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  .greedy-nav {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  background: transparent;
+  color: $text-color;
+  cursor: pointer;
+
+  &[hidden] { display: none; }
+  &:hover { background: $lighter-gray; }
+  &:focus-visible { outline: 2px solid $link-color; outline-offset: 3px; }
+  svg { pointer-events: none; }
+  .theme-toggle__sun { display: none; }
+}
+
+/* Reserve space before the existing navigation script measures the header.
+   Without JavaScript, the hidden control remains hidden. */
+html[data-theme] .theme-toggle[hidden] { display: inline-flex; }
+
+/* Dark overrides are screen-only: the original print stylesheet stays light. */
+@media screen {
+  html { color-scheme: light; }
+
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --theme-background: #202020;
+    --theme-surface: #292929;
+    --theme-text: #dedede;
+    --theme-muted: #b5b5b5;
+    --theme-border: #4a4a4a;
+    --theme-link: #ff9295;
+    --theme-link-hover: #ffc1c3;
+
+    background-color: var(--theme-background);
+    color: var(--theme-text);
+
+    body { color: var(--theme-text); background: var(--theme-background); }
+    a { color: var(--theme-link); }
+    a:hover { color: var(--theme-link-hover); }
+    a:focus-visible, button:focus-visible, input:focus-visible,
+    textarea:focus-visible, select:focus-visible {
+      outline: 2px solid var(--theme-link);
+      outline-offset: 3px;
+    }
+
+    .masthead, .page__footer, .author__avatar img,
+    .archive__subtitle, .list__item, .nav__sub-title,
+    .page__content h2, .page__share, .page__related,
+    .page__comments, .page__comments-title, .comment__avatar img,
+    .page__taxonomy-item, .pagination, .pagination a,
+    .pagination--pager, hr, table, th, td, thead,
+    .toc, .toc__menu a, .greedy-nav .hidden-links,
+    .greedy-nav .hidden-links li, .author__urls, .well {
+      border-color: var(--theme-border);
+    }
+
+    .greedy-nav { background: var(--theme-background); }
+    .greedy-nav a { color: var(--theme-muted); }
+    .greedy-nav a:hover { color: var(--theme-text); }
+    .greedy-nav .visible-links a:before { background: var(--theme-link); }
+    .greedy-nav .hidden-links, .author__urls, .toc,
+    .page__footer, thead, .well, .modal__inner,
+    .archive__item-teaser, .page__taxonomy-item:hover {
+      background: var(--theme-surface);
+      color: var(--theme-text);
+    }
+    .greedy-nav .hidden-links a:hover, .toc__menu a:hover {
+      background: var(--theme-border);
+      color: var(--theme-text);
+    }
+    .greedy-nav .hidden-links:before, .author__urls:before {
+      border-color: var(--theme-border) transparent;
+    }
+    .greedy-nav .hidden-links:after, .author__urls:after {
+      border-color: var(--theme-surface) transparent;
+    }
+
+    .page__footer a, .author__urls a { color: inherit; }
+    .page__footer .fas, .page__footer .fab,
+    .page__footer .far, .page__footer .fal,
+    .archive__subtitle, .page__meta, .page__date,
+    figcaption, .comment__date, .toc__menu a,
+    .page__footer, .pagination a, .pagination--pager,
+    .back-to-top, .taxonomy__count {
+      color: var(--theme-muted);
+    }
+    .author__urls .fa-map-marker { color: var(--theme-muted); }
+    .author__urls-wrapper .btn--inverse {
+      color: var(--theme-text) !important;
+      background: var(--theme-surface);
+      border-color: var(--theme-border) !important;
+    }
+    .social-icons .fa-github, .social-icons .fa-github-alt,
+    .social-icons .fa-github-square { color: var(--theme-text); }
+    .pagination a.current { background: var(--theme-border); color: var(--theme-text); }
+    .pagination a.disabled, .pagination--pager.disabled { color: #959caa; }
+
+    label, form legend { color: var(--theme-text); }
+    input, textarea, select, #goog-wm-qt {
+      background-color: var(--theme-surface);
+      color: var(--theme-text);
+      border-color: var(--theme-border);
+    }
+    input::placeholder, textarea::placeholder { color: var(--theme-muted); opacity: 1; }
+    .help-block, .help-inline { color: var(--theme-link); }
+    blockquote, abbr[title], abbr[data-original-title], u, ins {
+      border-color: var(--theme-border);
+    }
+
+    p > code, a > code, li > code, figcaption > code, td > code {
+      background: var(--theme-surface);
+      color: var(--theme-text);
+      border-color: var(--theme-border);
+    }
+    pre, div.highlighter-rouge, figure.highlight {
+      background: #242424;
+      color: #eeffff;
+    }
+
+    .notice, .notice--primary, .notice--info,
+    .notice--warning, .notice--success, .notice--danger {
+      background: var(--theme-surface);
+      color: var(--theme-text);
+      box-shadow: inset 3px 0 var(--theme-border);
+      a { color: var(--theme-link); }
+      a:hover { color: var(--theme-link-hover); }
+      code { background: var(--theme-background); }
+    }
+    .notice--info { box-shadow: inset 3px 0 var(--theme-link); }
+    .notice--warning { box-shadow: inset 3px 0 #f8b45b; }
+    .notice--success { box-shadow: inset 3px 0 #82cd91; }
+    .notice--danger { box-shadow: inset 3px 0 #ff9295; }
+
+    .btn--research { color: var(--theme-link); border-color: var(--theme-link); }
+    .btn--research:hover { color: var(--theme-background); background: var(--theme-link) !important; }
+    .theme-toggle {
+      color: var(--theme-text);
+      border-color: var(--theme-border);
+      &:hover { background: var(--theme-surface); }
+      .theme-toggle__moon { display: none; }
+      .theme-toggle__sun { display: block; }
+    }
+
+    /* GitHub's script embeds its own light CSS; theme the surrounding gist. */
+    .gist .gist-file { border-color: var(--theme-border); }
+    .gist .gist-data, .gist .gist-meta, .gist .highlight,
+    .gist .blob-code, .gist .blob-num {
+      background: var(--theme-surface);
+      color: var(--theme-text);
+      border-color: var(--theme-border);
+    }
+    .gist .gist-meta a { color: var(--theme-link); }
+    .gist .blob-num { color: var(--theme-muted); }
+    .gist .pl-c { color: #a5b0bf; }
+    .gist .pl-k, .gist .pl-s, .gist .pl-pds { color: #ffaaa6; }
+    .gist .pl-c1, .gist .pl-smi, .gist .pl-v { color: #a6d8ff; }
+    .gist .pl-en, .gist .pl-e { color: #d7b7ff; }
+
+    ::selection { background: #6f303b; color: #fff; }
+  }
+}
+
+@media print {
+  .theme-toggle { display: none; }
+}

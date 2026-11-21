@@ -2,6 +2,9 @@
 title: "Master's Thesis Defense Presentation: Non-Stationary MDPs and Continual RL"
 collection: seminar
 type: "Seminar"
+talk_order: 2
+excerpt: "Master’s thesis defense on non-stationary Markov decision processes and continual reinforcement learning."
+slidesurl: "https://www.dropbox.com/scl/fi/dykv5v89empuljhpxji2l/MS_Thesis_Defense_Presentation.pdf?rlkey=d2jj20mynfukjqp6hhj08i736&st=jx0k0q1y&dl=0"
 permalink: /talks/2025-05-02-masters-thesis-defense-presentation/
 venue: "IISER Berhampur"
 date: 2025-05-02

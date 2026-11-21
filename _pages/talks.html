@@ -11,6 +11,11 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% include base_path %}
+
+<div class="collection-entries collection-entries--talks">
+{% assign talks = site.talks | sort: "talk_order" %}
+{% for post in talks %}
+  {% include collection-entry.html post=post kind="talk" %}
 {% endfor %}
+</div>

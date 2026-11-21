@@ -1,6 +1,9 @@
 ---
 title: "Non-Stationary Markov Decision Processes and Continual Reinforcement Learning Algorithms"
 collection: Masters Thesis
+authors: "Sandesh Katakam"
+type: "Master’s thesis"
+publication_order: 3
 permalink: /publication/non-stationary-markov-decision-processes-and-continual-rl-algorithms
 date: 2025-05-02
 venue: 'Online'

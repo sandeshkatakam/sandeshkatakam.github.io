@@ -2,6 +2,9 @@
 title: "Master's Thesis Preliminary Seminar: Non-Stationary MDPs and Continual RL"
 collection: seminar
 type: "Seminar"
+talk_order: 3
+excerpt: "Preliminary seminar presenting progress on non-stationary Markov decision processes and continual reinforcement learning."
+slidesurl: "https://www.dropbox.com/scl/fi/phanfjp0wfyphnqm9prcf/Mid_Term_Thesis_Presentation_Progress__FinalPDF.pdf?rlkey=w1fkqzzopgwx460mskpsngr6p&st=qod14kzk&dl=0"
 permalink: /talks/2024-11-11-thesis-seminar-prelims/
 venue: "IISER Berhampur"
 date: 2024-11-11

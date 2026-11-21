@@ -1,0 +1,8 @@
+{%- assign resource_url = include.url | default: '' | strip -%}
+{%- assign resource_start = resource_url | slice: 0, 1 -%}
+{%- assign resource_prefix = resource_url | slice: 0, 2 -%}
+{%- if resource_prefix == '//' or resource_start == '#' -%}
+  {{- resource_url -}}
+{%- else -%}
+  {{- resource_url | absolute_url -}}
+{%- endif -%}

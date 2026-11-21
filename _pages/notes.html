@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.notes %}
-  {% include archive-single.html %}
+<div class="collection-entries collection-entries--notes">
+{% assign notes = site.notes | sort: "note_order" %}
+{% for post in notes %}
+  {% include collection-entry.html post=post kind="note" %}
 {% endfor %}
+</div>

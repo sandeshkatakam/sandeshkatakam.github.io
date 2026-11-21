@@ -148,6 +148,8 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
+  - tests
+  - docs/superpowers
   - package.json
   - tmp
   - vendor
